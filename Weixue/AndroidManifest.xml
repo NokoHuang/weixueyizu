@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.weixue.weixueUI"
+    android:versionCode="1"
+    android:versionName="1.0">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" /> <!-- 检测网络状态 -->
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" /> <!-- 获取mac地址作为用户的备用唯一标识 -->
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" /> <!-- 获取用户手机的IMEI，用来唯一的标识用户。 -->
+    <!-- 网络访问权限 -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!-- 在SDCard中创建与删除文件权限 -->
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <!-- 往SDCard写入数据权限 -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.BROADCAST_STICKY" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="android.permission.READ_LOGS" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_CONFIGURATION" >
+    </uses-permission>
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <uses-permission android:name="android.permission.DOWNLOAD_WITHOUT_NOTIFICATION" />
+    <uses-permission android:name="android.permission.ACCESS_DOWNLOAD_MANAGER" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon_forapk"
+        tools:replace="android:icon,android:label"
+        android:label="@string/app_name"
+        android:theme="@android:style/Theme.NoTitleBar" >
+        <activity
+            android:name="com.weixue.weixueUI.SplashActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- 主界面 -->
+        <activity
+            android:name=".MainActivity"
+            android:theme="@style/ThemeActivity" >
+        </activity>
+        <activity android:name="com.example.newspagedemo.MainActivity" >
+        </activity>
+        <activity android:name="com.example.newspagedemo.NewsListPageActivity" />
+        <activity android:name="com.example.newspagedemo.NewsPageActivity" />
+        <activity android:name="com.weixue.NewUI.ChooseActivity" >
+        </activity>
+        <activity android:name="com.weixue.NewUI.MarketActivity" >
+        </activity>
+        <activity android:name="com.weixue.NewUI.TrainingActivity" >
+        </activity>
+        <activity android:name="com.weixue.NewUI.PlanningActivity" >
+        </activity>
+        <activity android:name="com.weixue.NewUI.WebActivity" >
+        </activity>
+
+        <!-- 个人中心 -->
+        <activity android:name=".PersonalCenterActivity" >
+        </activity>
+        <!-- 校园动态 -->
+        <activity android:name=".CampusNewsActivity" >
+        </activity>
+        <!-- 课程中心 -->
+        <activity android:name=".CourseCenterActivity" >
+        </activity>
+        <activity android:name="com.weixue.NewUI.CourseCenterNewActivity" >
+        </activity>
+        <!-- 课程推荐 -->
+        <activity android:name=".LessonActivity" >
+        </activity>
+        <!-- 启动第三方app -->
+        <activity android:name="com.weixue.weixueUI.StartOtherApp" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <!-- 视频播放 -->
+        <activity android:name=".Wanzheng_Course_video_playbackActivity" >
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <action android:name="com.example.weixue.wanzhengvideo" />
+            </intent-filter>
+        </activity>
+
+        <!-- 视频播放（试看） -->
+        <activity android:name=".Course_video_playbackActivity" >
+        </activity>
+        <activity android:name="com.weixue.NewUI.Course_video_playbackActivity" >
+        </activity>
+        <activity android:name="com.weixue.NewUI.VideoViewDemo" >
+        </activity>
+        <activity
+            android:name="io.vov.vitamio.activity.InitActivity"
+            android:configChanges="orientation|screenSize|smallestScreenSize|keyboard|keyboardHidden|navigation"
+            android:launchMode="singleTop"
+            android:theme="@android:style/Theme.NoTitleBar"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <activity android:name="com.weixue.NewUI.MyClassActivity" >
+        </activity>
+        <!--<activity android:name="com.weixue.NewUI.ProfessionalActivity" >-->
+        <!--</activity>-->
+        <activity android:name="com.weixue.NewUI.CertificateActivity" >
+        </activity>
+
+        <!-- 推荐中心 -->
+        <activity android:name=".ChoiceRecoActivity" />
+        <activity android:name=".HotRecoActivity" />
+        <activity android:name=".OpenClassActivity" />
+
+        <service android:name="com.weixue.Service.DownLoadService" >
+        </service>
+
+        <!-- 更多(界面) -->
+
+        <activity android:name=".MoreActivity" >
+        </activity>
+
+        <!-- 更多视频界面(搜索) -->
+        <activity
+            android:name="com.weixue.weixueUI.SearchCourseActivity"
+            android:windowSoftInputMode="adjustPan|stateHidden" />
+
+        <!-- 答题界面 -->
+        <activity android:name=".ExamActivity" >
+        </activity>
+
+        <!-- 发表说说对话框 -->
+        <activity
+            android:name="com.weixue.MyDialog.PublishDetailActivity"
+            android:launchMode="singleTask"
+            android:theme="@style/publishDetailDialog" >
+        </activity>
+        <!-- 评分对话框 -->
+        <activity
+            android:name="com.weixue.MyDialog.CourseScoreActivity"
+            android:launchMode="singleTask"
+            android:theme="@style/publishDetailDialog" >
+        </activity>
+
+        <!-- 登录界面 -->
+        <activity
+            android:name=".LoginActivity"
+            android:theme="@style/ThemeActivity"
+            android:windowSoftInputMode="stateHidden" >
+        </activity>
+        <!-- 注册界面 -->
+        <activity android:name=".RegisterActivity" >
+        </activity>
+        <activity android:name=".DownLoadManagerActivity" >
+        </activity>
+        <!-- 更多课程 -->
+        <activity android:name=".MoreCourseActivity" >
+        </activity>
+        <!-- 学习园地 -->
+        <activity android:name="com.weixue.NewUI.StudyField" />
+        <!-- 学习书籍 -->
+        <activity android:name="com.weixue.myUI.StudyFieldItem1" />
+        <!-- 资源下载 -->
+        <activity android:name="com.weixue.myUI.StudyFieldItem2" />
+        <!-- 在线考试 -->
+        <activity android:name="com.weixue.myUI.StudyFieldItem3" />
+        <!-- 收藏课程 -->
+        <activity android:name=".CollectCourseActivity" >
+        </activity>
+
+        <!-- 关注好友 -->
+        <activity android:name=".AddFriendActivity" >
+        </activity>
+        <!-- 查找好友 -->
+        <activity
+            android:name=".SearchFriendActivity"
+            android:windowSoftInputMode="stateHidden" >
+        </activity>
+        <!-- 评论 -->
+        <activity android:name=".UserCommentActivity" >
+        </activity>
+        <!-- 查看评论 -->
+        <activity android:name=".ReadCommentActivity" >
+        </activity>
+        <!-- 个人信息 -->
+        <activity android:name=".UserInformationActivity" >
+        </activity>
+        <!-- 选择科目 -->
+        <activity android:name=".SelectSubjectActivity" >
+        </activity>
+        <!-- 系统设置 -->
+        <activity android:name=".SettingActivity" >
+        </activity>
+
+        <!-- 全屏 -->
+        <activity
+            android:name=".VideoFullScreenActivity"
+            android:configChanges="orientation|keyboardHidden|navigation"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
+            android:windowSoftInputMode="stateAlwaysHidden" >
+        </activity>
+        <!-- Don't forgot InitActivity -->
+        <activity
+            android:name="com.weixue.weixueUI.InitActivity"
+            android:configChanges="orientation|keyboardHidden|navigation"
+            android:launchMode="singleTop"
+            android:theme="@android:style/Theme.NoTitleBar"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+
+        <!-- 动态详情页 -->
+        <activity android:name=".StatusDetailActivity" >
+        </activity>
+        <!-- 课程亮点 -->
+        <activity
+            android:name="com.weixue.MyDialog.CourseBrightspotActivity"
+            android:theme="@style/publishDetailDialog" >
+        </activity>
+        <!-- 生成二维码界面 -->
+        <activity android:name=".CreateQrCodeActivity" >
+        </activity>
+        <!-- 扫描二维码界面 -->
+        <activity android:name=".QrCodeSearchFriendActivity" >
+        </activity>
+
+        <!-- 悬浮视频 -->
+        <activity android:name=".MoviewView" />
+        <activity android:name=".FloatVideoActivity" />
+        <activity
+            android:name=".StartActivity"
+            android:launchMode="singleTop" >
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <action android:name="com.weixue.ACTION_START_ACTIVITY" />
+            </intent-filter>
+        </activity>
+        <!--<activity android:name=".VideoChooseActivity" >-->
+        <!--</activity>-->
+        <activity android:name=".CarriesListActivity" />
+        <activity android:name=".CarriesInfoActivity" />
+        <activity android:name=".CarriesTotalActivity" />
+        <activity android:name=".TestResultActivity" />
+        <activity android:name=".CheckAnswersActivity" />
+        <activity android:name=".CheckAnswersListActivity" />
+        <activity
+            android:name=".VideoPlayerActivity"
+            android:launchMode="singleTop" >
+        </activity>
+
+        <service android:name="com.weixue.Service.MediaPlaybackService" />
+        <!-- 悬浮视频所需类结束 -->
+
+        <meta-data
+            android:name="UMS_APPKEY"
+            android:value="ffff31e5329ae3d18993952104aca4ba " />
+
+        <activity android:name=".KaoShiActivity" >
+        </activity>
+        <activity android:name=".KaoShiResult" >
+        </activity>
+        <activity android:name=".KaoShiAns" >
+        </activity>
+        <!-- ###################注册SDK使用的Activity###################### -->
+        <!-- 分享编辑页 -->
+        <activity
+            android:name="com.umeng.socialize.view.ShareActivity"
+            android:configChanges="orientation|keyboard"
+            android:launchMode="singleTask"
+            android:noHistory="true"
+            android:theme="@style/Theme.UMDialog"
+            android:windowSoftInputMode="stateVisible|adjustResize" >
+        </activity>
+
+        <!-- ############ QQ空间和QQ SSO授权的Activity注册 ############ -->
+        <activity android:name="com.tencent.tauth.AuthActivity" />
+
+        <!-- ###################添加+###################### -->
+        <meta-data
+            android:name="UMENG_APPKEY"
+            android:value="5270ac8c56240b904407d4ce" >
+        </meta-data>
+
+        <!-- pdf -->
+        <activity
+            android:name="com.artifex.mupdfdemo.MuPDFActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppBaseTheme" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:mimeType="application/vnd.ms-xpsdocument" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:mimeType="application/pdf" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:mimeType="application/x-cbz" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data android:scheme="file" />
+                <data android:mimeType="*/*" />
+                <data android:pathPattern=".*\\.xps" />
+                <data android:host="*" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data android:scheme="file" />
+                <data android:mimeType="*/*" />
+                <data android:pathPattern=".*\\.pdf" />
+                <data android:host="*" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data android:scheme="file" />
+                <data android:mimeType="*/*" />
+                <data android:pathPattern=".*\\.cbz" />
+                <data android:host="*" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

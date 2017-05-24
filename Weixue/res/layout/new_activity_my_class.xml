@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/line_loading"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_below="@id/textView1" >
+
+        <include layout="@layout/loading_and_refesh_page" />
+    </LinearLayout>
+
+    <com.weixue.widget.CornerListView
+        android:id="@+id/per_lesson_list1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:divider="@null"
+        android:fadingEdge="none"
+        android:layoutAnimation="@anim/list_anim_layout"
+        android:visibility="gone" >
+    </com.weixue.widget.CornerListView>
+
+</LinearLayout>

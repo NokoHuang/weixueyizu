@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="com.zhanyun.ums">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Weixue/libs/com.zhanyun.ums.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,722 @@
+[
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\stepforward.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\stepforward.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_grey_blue.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\umeng_socialize_button_grey_blue.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_shape_bt.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\umeng_socialize_shape_bt.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_at_button.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\umeng_socialize_at_button.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sidebar_normal.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\umeng_socialize_sidebar_normal.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_login.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\umeng_socialize_button_login.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_medium_white_white_big.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\progress_medium_white_white_big.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_shape_bt.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\umeng_socialize_shape_bt.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_share_icon.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\umeng_socialize_action_share_icon.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\displaymode_normal_state.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\displaymode_normal_state.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_style.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\rounded_style.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sidebar_selector.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\umeng_socialize_sidebar_selector.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\actionbar_compat_button.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\actionbar_compat_button.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_strock_bg_1.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\umeng_strock_bg_1.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\login_registerbtn_selector.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\login_registerbtn_selector.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\exam_radio_select.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\exam_radio_select.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_shape_yellow.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\umeng_socialize_shape_yellow.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_back.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\umeng_socialize_action_back.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_style.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\rounded_style.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\button.xml",
+        "source": "D:\\op\\weixue\\NewsPageDemo\\build\\intermediates\\bundles\\default\\res\\drawable\\button.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_white_blue.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\umeng_socialize_button_white_blue.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_bind_bt.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\umeng_socialize_bind_bt.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_oauth_check.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\umeng_socialize_oauth_check.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_button_left.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\umeng_socialize_title_tab_button_left.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\actionbar_btn.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\actionbar_btn.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_button_right.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\umeng_socialize_title_tab_button_right.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_go.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\btn_go.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\item_ontouch.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\item_ontouch.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_bar_selector.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\menu_bar_selector.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sidebar_selected.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\umeng_socialize_sidebar_selected.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_follow_check.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\umeng_socialize_follow_check.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_back_bt.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\umeng_socialize_title_back_bt.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\home_btn_bg.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\home_btn_bg.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_shape_yellow.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\umeng_socialize_shape_yellow.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\blue_button.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\blue_button.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\actionbar_btn.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\actionbar_btn.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\setting_btn_selector.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\setting_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_shape_hollow_grey.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\umeng_socialize_shape_hollow_grey.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\lesson_btn_selector.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\lesson_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\displaymode_normal_state.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\displaymode_normal_state.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sidebar_normal.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\umeng_socialize_sidebar_normal.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\actionbar_compat_button.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\actionbar_compat_button.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_comment_item_bg_shape.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\umeng_socialize_comment_item_bg_shape.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_addfriend_selector.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\btn_addfriend_selector.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_back_bt.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\umeng_socialize_title_back_bt.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_follow_check.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\umeng_socialize_follow_check.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\radiobtn_bg.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\radiobtn_bg.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_shape_red.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\umeng_socialize_shape_red.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_bind_bt.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\umeng_socialize_bind_bt.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_shareboard_item_background.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\umeng_socialize_shareboard_item_background.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\carries_bottom_ontouch.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\carries_bottom_ontouch.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\pause.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\pause.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_shape_hollow_grey.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\umeng_socialize_shape_hollow_grey.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\mediacontroller_play_button.xml",
+        "source": "D:\\Android_Workspace\\InitActivity\\build\\intermediates\\bundles\\default\\res\\drawable\\mediacontroller_play_button.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_style_forhead.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\rounded_style_forhead.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\corner_text_middle.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\corner_text_middle.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\corner_bg.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\corner_bg.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\corner_text_right.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\corner_text_right.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_back.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\umeng_socialize_action_back.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_shape_solid_grey.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\umeng_socialize_shape_solid_grey.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\corner_text_middle.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\corner_text_middle.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\mediacontroller_seekbar_thumb.xml",
+        "source": "D:\\op\\weixue\\InitActivity\\build\\intermediates\\bundles\\default\\res\\drawable\\mediacontroller_seekbar_thumb.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sidebar_selected.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\umeng_socialize_sidebar_selected.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\stepforward.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\stepforward.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\play.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\play.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_right_bt.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\umeng_socialize_title_right_bt.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_comment_icon.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\umeng_socialize_comment_icon.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_style_alert_dialog_button.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\btn_style_alert_dialog_button.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_login.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\umeng_socialize_button_login.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\answer_list_item_ontouch.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\answer_list_item_ontouch.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_share_transparent_corner.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\umeng_socialize_share_transparent_corner.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\actionbar_btn_pressed.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\actionbar_btn_pressed.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_grey_blue.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\umeng_socialize_button_grey_blue.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\soundcontrol.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\soundcontrol.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_style_alert_dialog_special.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\btn_style_alert_dialog_special.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\actionbar_background.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\actionbar_background.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_style_forcheckin.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\rounded_style_forcheckin.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_shareboard_item_background.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\umeng_socialize_shareboard_item_background.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_white_blue.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\umeng_socialize_button_white_blue.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_button_left.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\umeng_socialize_title_tab_button_left.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\actionbar_btn_pressed.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\actionbar_btn_pressed.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_personal_icon.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\umeng_socialize_action_personal_icon.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\dialogbtn_selector.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\dialogbtn_selector.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_share_to_button.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\umeng_socialize_share_to_button.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\dialogbtn_selector.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\dialogbtn_selector.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_style_forcheckin.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\rounded_style_forcheckin.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_shape_solid_grey.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\umeng_socialize_shape_solid_grey.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_medium_white_white_big.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\progress_medium_white_white_big.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_style_alert_dialog_cancel.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\btn_style_alert_dialog_cancel.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_strock_bg_1.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\umeng_strock_bg_1.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\radiobtn_bg.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\radiobtn_bg.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\busy.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\busy.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\soundmute.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\soundmute.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\iamge_progress.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\iamge_progress.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\mediacontroller_seekbar.xml",
+        "source": "D:\\op\\weixue\\InitActivity\\build\\intermediates\\bundles\\default\\res\\drawable\\mediacontroller_seekbar.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_right_bt.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\umeng_socialize_title_right_bt.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_button_right.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\umeng_socialize_title_tab_button_right.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_comment_icon.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\umeng_socialize_comment_icon.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_go.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\btn_go.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\carries_bottom_ontouch.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\carries_bottom_ontouch.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_addfriend_selector.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\btn_addfriend_selector.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_example_shape_gradient_grey_7.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\umeng_example_shape_gradient_grey_7.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\corner_bg.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\corner_bg.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\corner_bg_bg.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\corner_bg_bg.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\radiobtn_selector.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\radiobtn_selector.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\soundcontrol.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\soundcontrol.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_share_icon.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\umeng_socialize_action_share_icon.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\login_loginbtn_selector.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\login_loginbtn_selector.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\radiobtn_selector.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\radiobtn_selector.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\mediacontroller_seekbar.xml",
+        "source": "D:\\Android_Workspace\\InitActivity\\build\\intermediates\\bundles\\default\\res\\drawable\\mediacontroller_seekbar.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\registration_surebtn_selector.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\registration_surebtn_selector.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\displaymode_fullscreen.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\displaymode_fullscreen.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\seek_thumb.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\seek_thumb.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\item_ontouch.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\item_ontouch.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_example_shape_gradient_grey_7.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\umeng_example_shape_gradient_grey_7.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_shape_red.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\umeng_socialize_shape_red.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\answer_list_item_ontouch.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\answer_list_item_ontouch.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_comment_item_bg_shape.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\umeng_socialize_comment_item_bg_shape.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_window_shadow_pad.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\umeng_socialize_window_shadow_pad.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_red_blue.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\umeng_socialize_button_red_blue.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\actionbar_btn_normal.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\actionbar_btn_normal.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_style_forhead.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\rounded_style_forhead.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\room_rating_bar.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\room_rating_bar.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\corner_text_right.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\corner_text_right.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_style_alert_dialog_special.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\btn_style_alert_dialog_special.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_share_to_button.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\umeng_socialize_share_to_button.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\stepbackward.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\stepbackward.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\button.xml",
+        "source": "D:\\Android_Workspace\\NewsPageDemo\\build\\intermediates\\bundles\\default\\res\\drawable\\button.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\seek_progress.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\seek_progress.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\play.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\play.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\registration_surebtn_selector.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\registration_surebtn_selector.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_example_shape_hollow_grey.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\umeng_example_shape_hollow_grey.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\login_loginbtn_selector.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\login_loginbtn_selector.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\corner_text_lift.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\corner_text_lift.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\login_registerbtn_selector.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\login_registerbtn_selector.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sidebar_selector.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\umeng_socialize_sidebar_selector.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\setting_btn_selector.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\setting_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\soundmute.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\soundmute.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\home_btn_bg.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\home_btn_bg.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_shape_cyan.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\umeng_socialize_shape_cyan.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\iamge_progress.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\iamge_progress.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\seek_thumb.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\seek_thumb.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_shape_solid_black.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\umeng_socialize_shape_solid_black.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\lesson_btn_selector.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\lesson_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_strock_bg_high_light.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\umeng_strock_bg_high_light.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\actionbar_background.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\actionbar_background.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_shape_solid_black.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\umeng_socialize_shape_solid_black.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_bar_selector.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\menu_bar_selector.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\actionbar_btn_normal.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\actionbar_btn_normal.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_commnet_header_bg.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\umeng_socialize_commnet_header_bg.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\mediacontroller_pause_button.xml",
+        "source": "D:\\Android_Workspace\\InitActivity\\build\\intermediates\\bundles\\default\\res\\drawable\\mediacontroller_pause_button.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\page_num.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\page_num.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\displaymode_fullscreen.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\displaymode_fullscreen.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\corner_text_lift.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\corner_text_lift.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\busy.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\busy.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_strock_bg_high_light.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\umeng_strock_bg_high_light.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\page_num.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\page_num.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\blue_button.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\blue_button.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\pause.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\pause.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_oauth_check.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\umeng_socialize_oauth_check.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_red_blue.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\umeng_socialize_button_red_blue.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\mediacontroller_seekbar_thumb.xml",
+        "source": "D:\\Android_Workspace\\InitActivity\\build\\intermediates\\bundles\\default\\res\\drawable\\mediacontroller_seekbar_thumb.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_style_alert_dialog_cancel.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\btn_style_alert_dialog_cancel.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_shape_cyan.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\umeng_socialize_shape_cyan.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\exam_radio_select.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\exam_radio_select.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\mediacontroller_pause_button.xml",
+        "source": "D:\\op\\weixue\\InitActivity\\build\\intermediates\\bundles\\default\\res\\drawable\\mediacontroller_pause_button.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_share_transparent_corner.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\umeng_socialize_share_transparent_corner.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\corner_bg_bg.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\corner_bg_bg.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\corner_bg_g.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\corner_bg_g.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_window_shadow_pad.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\umeng_socialize_window_shadow_pad.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_commnet_header_bg.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\umeng_socialize_commnet_header_bg.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\mediacontroller_play_button.xml",
+        "source": "D:\\op\\weixue\\InitActivity\\build\\intermediates\\bundles\\default\\res\\drawable\\mediacontroller_play_button.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\room_rating_bar.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable\\room_rating_bar.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_personal_icon.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\umeng_socialize_action_personal_icon.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_style_alert_dialog_button.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\btn_style_alert_dialog_button.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\corner_bg_g.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\corner_bg_g.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_at_button.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\umeng_socialize_at_button.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\seek_progress.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\seek_progress.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_example_shape_hollow_grey.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\umeng_example_shape_hollow_grey.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable\\stepbackward.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable\\stepbackward.xml"
+    }
+]

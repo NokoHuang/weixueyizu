@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@drawable/bwnbg"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/jingping"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <HorizontalScrollView
+        android:id="@+id/horizontalScrollView"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:background="@color/grey"
+        android:fadingEdge="@null"
+        android:scrollbars="none" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:background="@color/grey" >
+
+            <RadioGroup
+                android:id="@+id/radioGroup"
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:layout_alignParentTop="true"
+                android:background="@color/white"
+                android:orientation="horizontal" >
+
+                <RadioButton
+                    android:id="@+id/btn1"
+                    style="@style/radioButton"
+                    android:text="@string/choice_reco" />
+
+                <RadioButton
+                    android:id="@+id/btn2"
+                    style="@style/radioButton"
+                    android:text="@string/hot_reco" />
+
+                <RadioButton
+                    android:id="@+id/btn3"
+                    style="@style/radioButton"
+                    android:text="@string/open_class" />
+            </RadioGroup>
+
+            <ImageView
+                android:id="@+id/img1"
+                android:layout_width="100dp"
+                android:layout_height="4dp"
+                android:layout_alignParentBottom="true"
+                android:background="@color/diy_blue" />
+        </RelativeLayout>
+    </HorizontalScrollView>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/pager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</LinearLayout>

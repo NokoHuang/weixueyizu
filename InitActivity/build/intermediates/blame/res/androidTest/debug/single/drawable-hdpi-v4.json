@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "D:\\op\\weixue\\InitActivity\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\op\\weixue\\InitActivity\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\InitActivity\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\mediacontroller_play02.png",
+        "source": "D:\\Android_Workspace\\InitActivity\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\mediacontroller_play02.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\InitActivity\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\mediacontroller_pause02.png",
+        "source": "D:\\Android_Workspace\\InitActivity\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\mediacontroller_pause02.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\InitActivity\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\mediacontroller_pause01.png",
+        "source": "D:\\op\\weixue\\InitActivity\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\mediacontroller_pause01.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\InitActivity\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\mediacontroller_play02.png",
+        "source": "D:\\op\\weixue\\InitActivity\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\mediacontroller_play02.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\InitActivity\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\mediacontroller_play01.png",
+        "source": "D:\\Android_Workspace\\InitActivity\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\mediacontroller_play01.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\InitActivity\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\mediacontroller_pause01.png",
+        "source": "D:\\Android_Workspace\\InitActivity\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\mediacontroller_pause01.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\InitActivity\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\Android_Workspace\\InitActivity\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\InitActivity\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\mediacontroller_seekbar01.png",
+        "source": "D:\\op\\weixue\\InitActivity\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\mediacontroller_seekbar01.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\InitActivity\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\mediacontroller_bg.png",
+        "source": "D:\\op\\weixue\\InitActivity\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\mediacontroller_bg.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\InitActivity\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\mediacontroller_bg.png",
+        "source": "D:\\Android_Workspace\\InitActivity\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\mediacontroller_bg.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\InitActivity\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\mediacontroller_seekbar02.png",
+        "source": "D:\\Android_Workspace\\InitActivity\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\mediacontroller_seekbar02.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\InitActivity\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\mediacontroller_pause02.png",
+        "source": "D:\\op\\weixue\\InitActivity\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\mediacontroller_pause02.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\InitActivity\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\mediacontroller_seekbar01.png",
+        "source": "D:\\Android_Workspace\\InitActivity\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\mediacontroller_seekbar01.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\InitActivity\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\mediacontroller_seekbar02.png",
+        "source": "D:\\op\\weixue\\InitActivity\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\mediacontroller_seekbar02.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\InitActivity\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\mediacontroller_play01.png",
+        "source": "D:\\op\\weixue\\InitActivity\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\mediacontroller_play01.png"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Android_Workspace\\NewsPageDemo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\iamge_progress.xml",
+        "source": "D:\\Android_Workspace\\NewsPageDemo\\build\\intermediates\\bundles\\debug\\res\\drawable\\iamge_progress.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\NewsPageDemo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\button.xml",
+        "source": "D:\\op\\weixue\\NewsPageDemo\\build\\intermediates\\bundles\\debug\\res\\drawable\\button.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\NewsPageDemo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\button.xml",
+        "source": "D:\\Android_Workspace\\NewsPageDemo\\build\\intermediates\\bundles\\debug\\res\\drawable\\button.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\NewsPageDemo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\iamge_progress.xml",
+        "source": "D:\\op\\weixue\\NewsPageDemo\\build\\intermediates\\bundles\\debug\\res\\drawable\\iamge_progress.xml"
+    }
+]

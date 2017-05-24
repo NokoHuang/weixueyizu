@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:background="@drawable/bwnbg"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/personaltitle"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+   <!--  <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" > -->
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+
+            <include
+                android:id="@+id/per_info_top"
+                layout="@layout/person_info_top" />
+
+            <LinearLayout
+                android:id="@+id/textView1"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/per_info_top"
+                android:gravity="center" >
+
+                <TextView
+                    android:id="@+id/text_myclass"
+                    android:layout_width="0dp"
+                    android:layout_height="40dp"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="我的课程"
+                    android:textColor="#08a5f7"
+                    android:textSize="14sp" />
+
+                <View
+                    android:layout_width="1dp"
+                    android:layout_height="18dp"
+                    android:layout_gravity="center"
+                    android:background="@color/grey" />
+
+                <TextView
+                    android:id="@+id/text_choose"
+                    android:layout_width="0dp"
+                    android:layout_height="40dp"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="职业选择"
+                    android:textColor="@color/black"
+                    android:textSize="14sp" />
+
+                <View
+                    android:layout_width="1dp"
+                    android:layout_height="18dp"
+                    android:background="@color/grey" />
+
+                <TextView
+                    android:id="@+id/text_certificate"
+                    android:layout_width="0dp"
+                    android:layout_height="40dp"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="我的证书"
+                    android:textColor="@color/black"
+                    android:textSize="14sp" />
+            </LinearLayout>
+
+            <View
+                android:id="@+id/view1"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_below="@id/textView1"
+                android:background="@color/grey" />
+
+            <com.weixue.widget.CornerListView
+                android:id="@+id/per_lesson_list1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_below="@id/view1"
+                android:background="@color/white"
+                android:divider="@null"
+                android:fadingEdge="none"
+                android:layoutAnimation="@anim/list_anim_layout"
+                android:visibility="gone" >
+            </com.weixue.widget.CornerListView>
+
+            <LinearLayout
+                android:id="@+id/line_professional"
+                android:layout_width="match_parent"
+                android:layout_height="fill_parent"
+                android:visibility="gone"
+                android:layout_below="@id/view1" >
+
+                <include layout="@layout/new_activity_professional" />
+            </LinearLayout>
+
+            <com.weixue.widget.CornerListView
+                android:id="@+id/per_lesson_certificate"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_below="@id/view1"
+                android:background="@color/white"
+                android:divider="@null"
+                android:fadingEdge="none"
+                android:layoutAnimation="@anim/list_anim_layout"
+                android:visibility="gone" >
+            </com.weixue.widget.CornerListView>
+            
+            <LinearLayout
+                android:id="@+id/line_loading"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:layout_below="@id/view1" >
+
+                <include layout="@layout/loading_and_refesh_page" />
+            </LinearLayout>
+        </RelativeLayout>
+    <!-- </ScrollView> -->
+
+</LinearLayout>

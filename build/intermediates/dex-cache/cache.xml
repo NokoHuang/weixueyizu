@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\op\weixue\Weixue\libs\SocialSDK_QQZone_2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1d1a215c3acd13ef011b8391cab495f7760c2a1d">
+        <dex dex="D:\op\weixue\Weixue\build\intermediates\pre-dexed\debug\SocialSDK_QQZone_2_28b531a67e19042f76fee7a85670e9d941bfbc09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\op\weixue\NewsPageDemo\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3df181f50b7c15a4ed360d77440df6ab4d44eb92">
+        <dex dex="D:\op\weixue\Weixue\build\intermediates\pre-dexed\debug\classes_9b39638520eecf3bf4f416bc81f1fd6b9355627c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\op\weixue\Weixue\libs\umeng_social_sdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3a7616c97df5a0973556ad726a52b2fe9571b9c5">
+        <dex dex="D:\op\weixue\Weixue\build\intermediates\pre-dexed\debug\umeng_social_sdk_9424aae7caff27ae833d1865f99046d65400b228.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\op\weixue\Weixue\libs\zxing.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e88c14e6e7daa0fa65172a62b54ee6a16ff4162d">
+        <dex dex="D:\op\weixue\Weixue\build\intermediates\pre-dexed\debug\zxing_72063dd02496d67fc4ecb1dc452507eb9b160639.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\op\weixue\Weixue\libs\httpmime-4.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e70d34d98f7f7f3b2b92105b9f2fe2a7a7184461">
+        <dex dex="D:\op\weixue\Weixue\build\intermediates\pre-dexed\debug\httpmime-4.1.3_887b038def8ad3e5e952572330e41306f2cf61b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\op\weixue\Weixue\libs\com.zhanyun.ums.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9a5e4443b72f71c648439dc6a8a911bd1b9dd7e2">
+        <dex dex="D:\op\weixue\Weixue\build\intermediates\pre-dexed\debug\com.zhanyun.ums_f0f32f80ef9ce2ebae41bf45577ae2307253be63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\op\weixue\Weixue\libs\gson-2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd858833cacb4e6742f7698649fb874a360e230f">
+        <dex dex="D:\op\weixue\Weixue\build\intermediates\pre-dexed\debug\gson-2.1_59a9573e0e6c90270371dd9940d21d9ab76d60c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\op\weixue\InitActivity\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ac37ec7f42ff2cca5fb4f57ab7bbd26a614ab581">
+        <dex dex="D:\op\weixue\Weixue\build\intermediates\pre-dexed\debug\classes_6aa7c731bb5dadd4956991b391c0893517c3aa34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\op\weixue\Weixue\libs\SocialSDK_WeiXin.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a5f20a9010df32cb73db28ec33964ed8b4c503cc">
+        <dex dex="D:\op\weixue\Weixue\build\intermediates\pre-dexed\debug\SocialSDK_WeiXin_47d9c36d2bc1257aca7a0b6569a328ccc1014e13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\op\weixue\NewsPageDemo\build\intermediates\bundles\default\libs\android-support-v4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15c03170be6fbbb27ca5bae0eb284fef5755253a">
+        <dex dex="D:\op\weixue\Weixue\build\intermediates\pre-dexed\debug\android-support-v4_ce91e631b5dc75faab78947782af7e7b216876c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\op\weixue\Weixue\libs\SocialSDK_tencentWB_2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6f744074067eb201171c9c8ff1ca45ed821a76a8">
+        <dex dex="D:\op\weixue\Weixue\build\intermediates\pre-dexed\debug\SocialSDK_tencentWB_2_cdf1e20c073c3a18bd6bcdf1719508b2a8b92f47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\op\weixue\InitActivity\build\intermediates\bundles\default\libs\vitamio.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1bd1bd707f2255f3716ad45a8a8fb92c44d616e7">
+        <dex dex="D:\op\weixue\Weixue\build\intermediates\pre-dexed\debug\vitamio_ba81084a9a473f10d2fd2198ff770b18e3dc26f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\op\weixue\NewsPageDemo\build\intermediates\bundles\default\libs\json.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="485b8ac77c4d86cdb5c9f3ed0f7605c4dd3180a3">
+        <dex dex="D:\op\weixue\Weixue\build\intermediates\pre-dexed\debug\json_8546e30c1e1062793ee8f2a8b02b5fb572215e39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\op\weixue\XlistviewActivity\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="14a4c3acd1c76bdb3b329781cd2b5b29defd2c08">
+        <dex dex="D:\op\weixue\Weixue\build\intermediates\pre-dexed\debug\classes_9b6086363cd1c2414cd23dd22ad1c75066bb8f64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\op\weixue\Weixue\libs\SocialSDK_QQZone_1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="48959cea0169c9c7f4b3822fcd7b168cdba3994b">
+        <dex dex="D:\op\weixue\Weixue\build\intermediates\pre-dexed\debug\SocialSDK_QQZone_1_4be028083e2f76818fb8054dc30487285cabb493.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\op\weixue\Weixue\libs\SocialSDK_tencentWB_1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="328c5351cae13f2ab29450d22b6c02d0ac88a855">
+        <dex dex="D:\op\weixue\Weixue\build\intermediates\pre-dexed\debug\SocialSDK_tencentWB_1_bb50680909a03911d05bb6a7bb5a09889ec604eb.jar" />
+    </item>
+
+</items>

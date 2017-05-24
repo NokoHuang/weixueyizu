@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+  
+    android:orientation="vertical" >
+<FrameLayout 
+      android:layout_width="match_parent"
+      android:layout_height="40dp"
+      android:gravity="center_vertical"
+      android:background="@drawable/top"
+      android:orientation="horizontal"
+      >  
+       <LinearLayout 
+           android:id="@+id/line_back"
+          android:layout_width="50dp"
+          android:layout_height="30dp"  
+       android:layout_marginLeft="10dp"       
+          android:background="@drawable/buttonback"
+          android:orientation="horizontal"
+            android:gravity="center"
+            android:layout_gravity="center_vertical"
+           >
+     
+      <TextView 
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_marginLeft="5dp"
+         android:text="@string/tv_back"
+         android:textColor="@color/white"
+         android:textSize="15sp"
+       
+          />
+    </LinearLayout>
+      <TextView 
+          android:layout_width="wrap_content"
+           
+          android:layout_height="35dp"
+         
+         android:text="@string/statusdetail"
+         android:textColor="@color/white"
+         android:layout_gravity="center"
+         android:gravity="center"
+        android:textSize="20sp"
+          />
+      
+     
+      
+  </FrameLayout>
+  <ScrollView 
+       android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_weight="1"
+      >
+    <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+      android:layout_margin="5dp"
+     
+    android:orientation="horizontal" >
+    
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:layout_margin="5dp"
+       
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@+id/userMsgImg"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+           
+            android:src="@drawable/liimg" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="10dp"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/title"
+            android:textColor="@color/blue"
+            android:textStyle="bold"
+            android:layout_marginBottom="5dp"
+            android:layout_marginTop="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:singleLine="true"
+            android:ellipsize="end"
+            android:text="小刘子很man(这是事实)" />
+
+        <TextView
+            android:id="@+id/content"
+            android:textColor="@color/black"
+            android:layout_width="match_parent"
+            android:paddingRight="20dp"
+            android:textSize="13sp"
+            android:layout_height="wrap_content"
+            android:text="小刘子很man小刘子很man小刘子很man小刘子很man小刘子很man小刘子很man小刘子很man小刘子很man小刘子很man小刘子很man小刘子很man" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+           
+            android:orientation="horizontal" >
+             <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"           
+            android:layout_weight="1"
+            android:orientation="horizontal" >
+            <TextView
+                android:textColor="@color/black"               
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/createtime" />
+            <TextView
+                android:id="@+id/time"
+                android:textColor="@color/black"
+               
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="2013-8-19" />
+            </LinearLayout>
+<LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"           
+          android:layout_gravity="bottom|right"
+          android:layout_marginLeft="5dp"
+            android:orientation="horizontal" >
+            <TextView
+                android:id="@+id/pinglunNum"
+                android:textColor="@color/black"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="1000" />
+
+            <ImageView
+                android:layout_width="wrap_content"               
+                android:layout_height="wrap_content"
+                android:src="@drawable/pinglun" />
+             </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+    </LinearLayout>
+    </ScrollView>
+    <!-- 底部 -->
+<LinearLayout 
+    android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="bottom"
+            android:layout_weight="0"
+    >
+   <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bwnbg_movie"           
+            android:gravity="center_vertical|center_horizontal"
+            android:layout_weight="0"
+            android:orientation="horizontal" >
+
+           
+
+            <TextView
+                android:id="@+id/tv_readcomment"
+                android:layout_width="wrap_content"
+                android:textColor="@color/black"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_weight="1"
+                android:text="@string/readcomment" />
+
+            <TextView
+                android:id="@+id/tv_uploadcomment"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textColor="@color/black"
+                android:layout_weight="1"
+                android:text="@string/uploadcomment" />
+            <TextView
+                android:id="@+id/tv_addfriend"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textColor="@color/black"
+                android:layout_weight="1"
+                android:text="@string/addfriend" />
+        </LinearLayout>  
+    </LinearLayout>    
+</LinearLayout>
+

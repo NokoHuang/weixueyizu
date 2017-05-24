@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+ 
+    android:orientation="vertical" >
+    <LinearLayout 
+    android:layout_width="300dp"
+    android:layout_height="225dp"
+    android:orientation="vertical"
+   
+        >
+    <LinearLayout 
+        android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:gravity="right"
+        >
+        <ImageButton 
+            android:id="@+id/imgbtn_delete_dialog"
+            android:src="@drawable/fh"
+            android:background="@color/transparent"
+     android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="5dp"
+    android:layout_marginRight="5dp"
+            />
+    </LinearLayout>
+    <LinearLayout 
+        android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:gravity="center"
+        >
+        <TextView           
+     android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:textSize="16sp"
+    android:text="@string/howmuching"  
+            />
+        <TextView
+            android:id="@+id/tv_showHowMuch"           
+     android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:textSize="16sp"
+    android:text="10"  
+            />
+        <TextView           
+     android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:textSize="16sp"
+    android:text="@string/howmuched"  
+            />
+    </LinearLayout>
+    <!-- 按钮 -->
+     <LinearLayout 
+        android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_marginTop="30dp"
+    android:layout_marginLeft="20dp"
+    android:layout_marginRight="20dp"
+        >
+        
+        <ImageButton           
+            android:id="@+id/img_trytosee"
+             android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+            android:src="@drawable/trytosee"
+             android:scaleType="fitCenter"
+            android:background="@color/transparent"
+            />
+        
+        <ImageButton           
+            android:id="@+id/img_enroll"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:src="@drawable/zf"   
+            android:scaleType="fitCenter"
+            android:background="@color/transparent"
+            />
+       
+    </LinearLayout>
+ <LinearLayout 
+        android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:gravity="right"
+    android:layout_marginTop="30dp"
+    android:layout_marginRight="10dp"
+        >
+        <TextView           
+     android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:textSize="16sp"
+    android:text="@string/balanceing"
+    
+            />
+        <TextView 
+            android:id="@+id/tv_balance"          
+     android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:textSize="16sp"
+    android:text="333"
+    
+            />
+        <TextView           
+     android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:textSize="16sp"
+    android:text="@string/balanceed"
+    
+            />
+    </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,1562 @@
+[
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mediacontroller_play01.png",
+        "source": "D:\\Android_Workspace\\InitActivity\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\mediacontroller_play01.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\info_bg.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\info_bg.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\liimg.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\liimg.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mediacontroller_pause01.png",
+        "source": "D:\\op\\weixue\\InitActivity\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\mediacontroller_pause01.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edittext_searchs.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\edittext_searchs.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fenge.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\fenge.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\t_nav1.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\t_nav1.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_img.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\search_img.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mediacontroller_bg.png",
+        "source": "D:\\op\\weixue\\InitActivity\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\mediacontroller_bg.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edittext_searchs.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\edittext_searchs.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\xiez.jpg",
+        "source": "D:\\op\\weixue\\XlistviewActivity\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\xiez.jpg"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_style_alert_dialog_button_normal.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\btn_style_alert_dialog_button_normal.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\no_focus.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\no_focus.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\del.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\del.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mediacontroller_seekbar01.png",
+        "source": "D:\\Android_Workspace\\InitActivity\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\mediacontroller_seekbar01.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading2_1.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\loading2_1.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\stepforward_down.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\stepforward_down.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\soso.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\soso.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\stepforward_down.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\stepforward_down.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btnppt.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\btnppt.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\txt_mail.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\txt_mail.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_style_alert_dialog_special_pressed.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\btn_style_alert_dialog_special_pressed.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\t_nav5.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\t_nav5.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pause_normal.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\pause_normal.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\radio_checked.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\radio_checked.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\person.png",
+        "source": "D:\\op\\weixue\\NewsPageDemo\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\person.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btremu.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\btremu.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\buttonback.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\buttonback.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\licent.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\licent.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btnkaoshi.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\btnkaoshi.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\displaymode_fullscreen_down.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\displaymode_fullscreen_down.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\select.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\select.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_p2.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\ic_p2.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\online_exam.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\online_exam.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dl_2.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\dl_2.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_forapk.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\icon_forapk.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btnppt.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\btnppt.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fanhui.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\fanhui.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\serccer.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\serccer.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_addfriend_on.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\btn_addfriend_on.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\t_nav5.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\t_nav5.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mediacontroller_play01.png",
+        "source": "D:\\op\\weixue\\InitActivity\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\mediacontroller_play01.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialog_button_normal.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\dialog_button_normal.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\txt_mail.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\txt_mail.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_img.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\search_img.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_addfriend_on.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\btn_addfriend_on.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\t_nav1.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\t_nav1.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\splash.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\splash.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fileicon_video.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\fileicon_video.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\userimg.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\userimg.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fh.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\fh.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\topbg.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\topbg.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_check.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\button_check.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_addfriend.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\btn_addfriend.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialog_button_active.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\dialog_button_active.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\displaymode_fullscreen_down.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\displaymode_fullscreen_down.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\no_focus.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\no_focus.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\light_bg.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\light_bg.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\person.png",
+        "source": "D:\\Android_Workspace\\NewsPageDemo\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\person.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\profession_select.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\profession_select.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bwnbg.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\bwnbg.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\light_bg.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\light_bg.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\menu.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_refresh.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\menu_refresh.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\profession_maket.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\profession_maket.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\seek_thumb_normal.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\seek_thumb_normal.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\profession_select.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\profession_select.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ab_solid_light_holo.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\abs__ab_solid_light_holo.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\select.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\select.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_pulltorefresh_arrow.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\ic_pulltorefresh_arrow.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\s2.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\s2.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\radio_checked.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\radio_checked.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btnjiaoan.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\btnjiaoan.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_star.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\button_star.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_play.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\btn_play.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_num_front.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\video_num_front.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\soundmute_down.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\soundmute_down.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\close_float.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\close_float.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\del.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\del.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_setting_bg_on.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\btn_setting_bg_on.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\zc_1.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\zc_1.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading2_1.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\loading2_1.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_user_bg.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\ic_user_bg.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_favor1.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\icon_favor1.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\image.png",
+        "source": "D:\\op\\weixue\\NewsPageDemo\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\image.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\zf.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\zf.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pause_down.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\pause_down.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_pulltorefresh_arrow.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\ic_pulltorefresh_arrow.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pinglun.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\pinglun.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_default_personal.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\ic_default_personal.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\s3.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\s3.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_style_alert_dialog_cancel_normal.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\btn_style_alert_dialog_cancel_normal.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\profession_planning.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\profession_planning.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_p1.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\ic_p1.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bwnbg_movie.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\bwnbg_movie.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\s3.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\s3.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\popup_bg.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\popup_bg.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\paopao.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\paopao.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\soundrecording.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\soundrecording.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\goback.png",
+        "source": "D:\\Android_Workspace\\NewsPageDemo\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\goback.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btnin.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\btnin.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\star2.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\star2.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nav_pic1.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\nav_pic1.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\soundcontrol_normal.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\soundcontrol_normal.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_num_front.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\video_num_front.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\reg_btn.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\reg_btn.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\licent.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\licent.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mediacontroller_seekbar01.png",
+        "source": "D:\\op\\weixue\\InitActivity\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\mediacontroller_seekbar01.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\image.png",
+        "source": "D:\\Android_Workspace\\NewsPageDemo\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\image.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\t_nav4.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\t_nav4.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\info_bg.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\info_bg.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\displaymode_down.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\displaymode_down.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\t_nav2.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\t_nav2.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_type.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\menu_type.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\user.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\user.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\bg.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_brightness_bg.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\video_brightness_bg.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_collect.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\btn_collect.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mediacontroller_play02.png",
+        "source": "D:\\Android_Workspace\\InitActivity\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\mediacontroller_play02.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_btn_bg_n.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\home_btn_bg_n.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\play_normal.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\play_normal.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fill.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\fill.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_user_bg.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\ic_user_bg.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\topbg.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\topbg.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\zf.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\zf.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialog.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\dialog.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\goback.png",
+        "source": "D:\\op\\weixue\\NewsPageDemo\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\goback.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\box_arrow.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\box_arrow.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading.png",
+        "source": "D:\\Android_Workspace\\NewsPageDemo\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\loading.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\navigation_bar_bg.png",
+        "source": "D:\\Android_Workspace\\NewsPageDemo\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\navigation_bar_bg.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mediacontroller_pause02.png",
+        "source": "D:\\op\\weixue\\InitActivity\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\mediacontroller_pause02.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\litop.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\litop.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bwnbg.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\bwnbg.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\textbox2.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\textbox2.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\close_float.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\close_float.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_p2.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\ic_p2.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\menu.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\plugins_avatar.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\plugins_avatar.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\top.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_setting_bg.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\btn_setting_bg.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\serccer.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\serccer.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\xiez.jpg",
+        "source": "D:\\Android_Workspace\\XlistviewActivity\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\xiez.jpg"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dl.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\dl.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\resource_download.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\resource_download.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\down.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\down.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\soundcontrol_normal.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\soundcontrol_normal.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_btn_bg_n.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\home_btn_bg_n.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\bg.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\serccer_1.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\serccer_1.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\stepforward_normal.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\stepforward_normal.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\profession_maket.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\profession_maket.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\libg2.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\libg2.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\s1.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\s1.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fanhui.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\fanhui.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_p4.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\ic_p4.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_star_on.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\button_star_on.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mediacontroller_pause01.png",
+        "source": "D:\\Android_Workspace\\InitActivity\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\mediacontroller_pause01.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_btn_bg_s.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\home_btn_bg_s.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\seek.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\seek.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\webview_bottom_btn_close_s.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\webview_bottom_btn_close_s.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_p4.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\ic_p4.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\webview_bottom_btn_close_s.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\webview_bottom_btn_close_s.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_num_bg.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\video_num_bg.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\img.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\img.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_2.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\bg_2.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\videoimg.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\videoimg.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_pulltorefresh_arrow_up.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\ic_pulltorefresh_arrow_up.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\box_arrow.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\box_arrow.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\buttonback.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\buttonback.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loding.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\loding.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\displaymode_fullscreen_normal.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\displaymode_fullscreen_normal.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\paopao.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\paopao.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\navbar.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\navbar.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btnkaoshi.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\btnkaoshi.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\userimg.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\userimg.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\trytosee.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\trytosee.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\soundrecording.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\soundrecording.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\libg2.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\libg2.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\down.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\down.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nav_pic2.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\nav_pic2.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\textbox.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\textbox.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\right_arrow.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\right_arrow.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\volumn_bg.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\volumn_bg.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_check_on.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\button_check_on.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fileicon_unkown.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\fileicon_unkown.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\arrow.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\arrow.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\study_book.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\study_book.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fileicon_ppt.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\fileicon_ppt.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fileicon_folder.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\fileicon_folder.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mediacontroller_play02.png",
+        "source": "D:\\op\\weixue\\InitActivity\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\mediacontroller_play02.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dwm.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\dwm.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\t_nav4.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\t_nav4.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\volumn_0_bg.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\volumn_0_bg.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fill.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\fill.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\stepforward_normal.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\stepforward_normal.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_finish1.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\icon_finish1.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pwd.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\pwd.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\seek_thumb_normal.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\seek_thumb_normal.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\arrow.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\arrow.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fileicon_word.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\fileicon_word.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_default_user.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\ic_default_user.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\stepbackward_normal.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\stepbackward_normal.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\stepbackward_down.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\stepbackward_down.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\android.jpg",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\android.jpg"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\backgroup_default.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\backgroup_default.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_style_alert_dialog_background.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\btn_style_alert_dialog_background.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\s1.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\s1.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\radio_unchecked.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\radio_unchecked.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\soundmute_normal.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\soundmute_normal.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_style_alert_dialog_special_normal.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\btn_style_alert_dialog_special_normal.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\t_nav3.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\t_nav3.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_style_alert_dialog_special_pressed.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\btn_style_alert_dialog_special_pressed.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_btn_bg_s.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\home_btn_bg_s.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\soundmute_normal.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\soundmute_normal.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialog_button_active.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\dialog_button_active.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_default_user.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\ic_default_user.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fbbtn.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\fbbtn.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\textbox3.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\textbox3.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_btn_bg_d.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\home_btn_bg_d.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\topbg_seleted.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\topbg_seleted.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\radio_unchecked.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\radio_unchecked.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mediacontroller_seekbar02.png",
+        "source": "D:\\op\\weixue\\InitActivity\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\mediacontroller_seekbar02.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\topbg_seleted.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\topbg_seleted.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\textbox3.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\textbox3.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btnin.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\btnin.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_btn_bg_d.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\home_btn_bg_d.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\paopaoli.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\paopaoli.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\focus.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\focus.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nav_pic2.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\nav_pic2.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fileicon_ppt.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\fileicon_ppt.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_brightness_bg.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\video_brightness_bg.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dl.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\dl.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_2.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\bg_2.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_item_cover_all.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\list_item_cover_all.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\navigation_bar_bg.png",
+        "source": "D:\\op\\weixue\\NewsPageDemo\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\navigation_bar_bg.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_forapk.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\icon_forapk.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\litop.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\litop.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\divide.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\divide.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ab_solid_light_holo.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\abs__ab_solid_light_holo.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_setting_bg.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\btn_setting_bg.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\user.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\user.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\soundmute_down.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\soundmute_down.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\textbox.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\textbox.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_finish1.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\icon_finish1.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialog_button_normal.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\dialog_button_normal.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\plugins_avatar.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\plugins_avatar.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\serccer_1.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\serccer_1.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_refresh.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\menu_refresh.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loding.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\loding.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\resource_download.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\resource_download.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\paopaoli.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\paopaoli.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\soundcontrol_down.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\soundcontrol_down.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_num_bg.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\video_num_bg.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sound_line1.BMP",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\sound_line1.BMP"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\videoimg.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\videoimg.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pic.png",
+        "source": "D:\\Android_Workspace\\NewsPageDemo\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\pic.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pause_normal.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\pause_normal.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_style_alert_dialog_button_normal.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\btn_style_alert_dialog_button_normal.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_style_alert_dialog_special_normal.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\btn_style_alert_dialog_special_normal.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\seek_thumb_down.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\seek_thumb_down.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\user_img.jpg",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\user_img.jpg"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fileicon_video.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\fileicon_video.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\star1.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\star1.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\star1.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\star1.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\online_exam.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\online_exam.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_volumn_bg.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\video_volumn_bg.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\divide.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\divide.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\head.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\head.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sound_line.bmp",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\sound_line.bmp"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\star2.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\star2.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\seek.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\seek.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\seek_thumb_down.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\seek_thumb_down.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\volumn_bg.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\volumn_bg.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fileicon_word.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\fileicon_word.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btnwenda.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\btnwenda.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\backgraoup.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\backgraoup.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\trytosee.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\trytosee.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\xlistview_arrow.png",
+        "source": "D:\\Android_Workspace\\XlistviewActivity\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\xlistview_arrow.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_volumn_bg.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\video_volumn_bg.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btnjiaoan.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\btnjiaoan.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\xlistview_arrow.png",
+        "source": "D:\\op\\weixue\\XlistviewActivity\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\xlistview_arrow.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\right_arrow.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\right_arrow.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\soso.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\soso.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\profession_train.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\profession_train.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_star_on.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\button_star_on.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\navbar.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\navbar.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pause_down.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\pause_down.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_pulltorefresh_arrow_up.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\ic_pulltorefresh_arrow_up.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\t_nav3.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\t_nav3.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading.png",
+        "source": "D:\\op\\weixue\\NewsPageDemo\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\loading.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\volumn_0_bg.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\volumn_0_bg.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\change.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\change.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\liimg.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\liimg.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\android.jpg",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\android.jpg"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fenge.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\fenge.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\news_menu.png",
+        "source": "D:\\Android_Workspace\\NewsPageDemo\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\news_menu.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\person_bg.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\person_bg.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sound_line.bmp",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\sound_line.bmp"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dl_2.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\dl_2.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\displaymode_down.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\displaymode_down.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\play_normal.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\play_normal.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\play_button.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\play_button.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\s2.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\s2.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_img.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\list_img.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_addfriend.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\btn_addfriend.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\play_down.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\play_down.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\t_nav2.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\t_nav2.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\reg_btn.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\reg_btn.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_style_alert_dialog_background.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\btn_style_alert_dialog_background.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_type.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\menu_type.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_style_alert_dialog_button_pressed.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\btn_style_alert_dialog_button_pressed.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\backgraoup.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\backgraoup.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_collect.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\btn_collect.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\test.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\test.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_style_alert_dialog_cancel_normal.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\btn_style_alert_dialog_cancel_normal.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fh.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\fh.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pinglun.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\pinglun.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nav_pic3.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\nav_pic3.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\displaymode_fullscreen_normal.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\displaymode_fullscreen_normal.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_img.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\list_img.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nav_pic3.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\nav_pic3.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\textbox2.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\textbox2.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_p1.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\ic_p1.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\head.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\head.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\stepbackward_down.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\stepbackward_down.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\zc_1.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\zc_1.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialog.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\dialog.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_default_personal.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\ic_default_personal.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mediacontroller_bg.png",
+        "source": "D:\\Android_Workspace\\InitActivity\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\mediacontroller_bg.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mediacontroller_seekbar02.png",
+        "source": "D:\\Android_Workspace\\InitActivity\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\mediacontroller_seekbar02.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fbbtn.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\fbbtn.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\backgroup_default.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\backgroup_default.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pic.png",
+        "source": "D:\\op\\weixue\\NewsPageDemo\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\pic.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\centre.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\centre.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\play_button.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\play_button.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\test.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\test.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\soundcontrol_down.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\soundcontrol_down.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\user_img.jpg",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\user_img.jpg"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialog_bg.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\dialog_bg.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_favor1.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\icon_favor1.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_item_cover_all.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\list_item_cover_all.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fileicon_folder.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\fileicon_folder.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\profession_planning.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\profession_planning.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dwm.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\dwm.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edittext_search_image.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\edittext_search_image.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nav_pic1.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\nav_pic1.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\top.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fileicon_unkown.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\fileicon_unkown.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sound_line1.BMP",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\sound_line1.BMP"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btnwenda.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\btnwenda.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_check_on.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\button_check_on.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\img.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\img.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_play.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\btn_play.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_p3.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\ic_p3.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\splash.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\splash.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\focus.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\focus.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\stepbackward_normal.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\stepbackward_normal.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\change.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\change.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_star.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\button_star.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialog_bg.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\dialog_bg.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\centre.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\centre.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\play_down.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\play_down.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edittext_search_image.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\edittext_search_image.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\libow.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\libow.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\zc.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\zc.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\study_book.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\study_book.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_style_alert_dialog_button_pressed.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\btn_style_alert_dialog_button_pressed.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\displaymode_normal.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\displaymode_normal.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_check.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\button_check.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qxbtn.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\qxbtn.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\zc.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\zc.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_setting_bg_on.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\btn_setting_bg_on.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_2.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\btn_2.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\person_bg.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\person_bg.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_2.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\btn_2.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\libow.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\libow.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\displaymode_normal.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\displaymode_normal.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\profession_train.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\profession_train.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qxbtn.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\qxbtn.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\news_menu.png",
+        "source": "D:\\op\\weixue\\NewsPageDemo\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\news_menu.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_p3.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\ic_p3.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\popup_bg.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\popup_bg.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pwd.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\pwd.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mediacontroller_pause02.png",
+        "source": "D:\\Android_Workspace\\InitActivity\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\mediacontroller_pause02.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btremu.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-hdpi\\btremu.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bwnbg_movie.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-hdpi\\bwnbg_movie.png"
+    }
+]

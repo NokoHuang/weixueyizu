@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@drawable/bwnbg"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:id="@+id/line_back"
+            android:layout_width="50dp"
+            android:layout_height="30dp"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/buttonback"
+            android:gravity="center"
+            android:layout_centerVertical="true"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:text="@string/tv_back"
+                android:textColor="@color/white"
+                android:textSize="15sp" />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:gravity="center"
+            android:text="@string/playerVideo"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <FrameLayout
+                android:layout_width="fill_parent"
+                android:layout_height="200dp" >
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/black"
+                    android:gravity="center" >
+
+                    <com.weixue.myUI.MyVideoView
+                        android:id="@+id/videoview"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/play_bg"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:background="@drawable/bg"
+                    android:gravity="center" >
+
+                    <ImageView
+                        android:id="@+id/play"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/play_button" />
+                </LinearLayout>
+            </FrameLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+
+                <ImageView
+                    android:id="@+id/img_videoImg"
+                    android:layout_width="120dp"
+                    android:layout_height="120dp"
+                    android:layout_gravity="left|center_vertical"
+                    android:padding="5dp"
+                    android:scaleType="fitCenter"
+                    android:src="@drawable/videoimg" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/white"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/jianjie"
+                        android:textColor="@color/black" />
+
+                    <TextView
+                        android:id="@+id/tv_introduction"
+                        android:layout_width="match_parent"
+                        android:layout_height="150dp"
+                        android:scrollbars="vertical"
+                        android:singleLine="false"
+                        android:text="刘云山：找不出问题就是问题 北京集体喝农药11人均出院 有人不肯配合治疗 李天一案涉事酒吧经理否认指控 自述眼中真相 官方回应方丈释永信私生子传闻:得罪了权贵 江西遭性侵女童家长回应副市长解释：没感到歉意 "
+                        android:textColor="@color/black" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@color/white"
+                        android:gravity="center_vertical"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="评分："
+                            android:textColor="@color/black" />
+
+                        <RatingBar
+                            android:id="@+id/app_ratingbar"
+                            style="@style/MyRatingBar"
+                            android:layout_width="wrap_content"
+                            android:layout_height="15dp"
+                            android:numStars="5"
+                            android:rating="2.50" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/baodu"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="10dp"
+                        android:background="@drawable/btn_collect"
+                        android:gravity="center_vertical|center_horizontal" >
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_margin="5dp"
+                            android:gravity="center"
+                            android:text="@string/baodu"
+                            android:textColor="@color/white"
+                            android:textSize="13sp" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/line_collect"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="10dp"
+                        android:background="@drawable/btn_collect"
+                        android:gravity="center_vertical|center_horizontal"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:id="@+id/tv_collect"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_margin="5dp"
+                            android:gravity="center"
+                            android:text="@string/Collection"
+                            android:textColor="@color/white"
+                            android:textSize="13sp" />
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:background="@drawable/fenge"
+                android:gravity="center_vertical"
+                android:orientation="horizontal" >
+            </LinearLayout>
+
+            <ListView
+                android:id="@+id/video_list"
+                android:layout_width="match_parent"
+                android:layout_height="fill_parent" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

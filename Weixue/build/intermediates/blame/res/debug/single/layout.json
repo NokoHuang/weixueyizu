@@ -1,0 +1,1402 @@
+[
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\carries_item.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\carries_item.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\activity_single_page.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\activity_single_page.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\new_recommend.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\new_recommend.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\window_coursecenter.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\window_coursecenter.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_ucenter.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\umeng_socialize_ucenter.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_coursebrightspot_page.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\dialog_coursebrightspot_page.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_bak_platform_item_simple.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\umeng_bak_platform_item_simple.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_comment_more.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\umeng_socialize_comment_more.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\vidao_view.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\vidao_view.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\controler.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\controler.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\login_page.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\login_page.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_full_curtain.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\umeng_socialize_full_curtain.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_footer.xml",
+        "source": "D:\\op\\weixue\\XlistviewActivity\\build\\intermediates\\bundles\\default\\res\\layout\\xlistview_footer.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\item_video_list_page.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\item_video_list_page.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\item_lv_readcomment.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\item_lv_readcomment.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\person_info_top.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\person_info_top.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\lesson__page_list.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\lesson__page_list.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\all_course_adapter.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\all_course_adapter.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\item_welcome_page_one.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\item_welcome_page_one.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\searchfriend_page.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\searchfriend_page.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\item_coursecenter_page.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\item_coursecenter_page.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_iphone.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\dialog_iphone.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\news_list_page.xml",
+        "source": "D:\\op\\weixue\\NewsPageDemo\\build\\intermediates\\bundles\\default\\res\\layout\\news_list_page.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\user_information_top.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\user_information_top.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\all_course_adapter.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\all_course_adapter.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\activity_carries_info.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\activity_carries_info.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\more_video_list_item.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\more_video_list_item.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\per_lesson_list_item.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\per_lesson_list_item.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\wanzheng_course_video_playback_page.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\wanzheng_course_video_playback_page.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\item_group_morecourse.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\item_group_morecourse.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\news_top_img_page.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\news_top_img_page.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_composer_header.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\umeng_socialize_composer_header.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_full_alert_dialog.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\umeng_socialize_full_alert_dialog.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_base_alert_dialog.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\umeng_socialize_base_alert_dialog.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\usercomment_page.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\usercomment_page.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\item_welcome_page_one.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\item_welcome_page_one.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\activity_carries_list.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\activity_carries_list.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_example_socialize_home.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\umeng_example_socialize_home.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\study_field_item3.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\study_field_item3.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_example_socialize_actionbar_detail.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\umeng_example_socialize_actionbar_detail.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_base_alert_dialog_button.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\umeng_socialize_base_alert_dialog_button.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\answer_item.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\answer_item.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_item_style.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\spinner_item_style.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\item_ans_list.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\item_ans_list.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_bak_at_list.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\umeng_bak_at_list.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\item_group_morecourse.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\item_group_morecourse.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\campusnews_listview_item.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\campusnews_listview_item.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_example_socialize_customplatform_example.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\umeng_example_socialize_customplatform_example.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\dialog.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\dialog.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\activity_swipe.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\activity_swipe.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\bottom_bar.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\bottom_bar.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_oauth_dialog.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\umeng_socialize_oauth_dialog.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\pager_tab_title.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\pager_tab_title.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\slide_menu.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\slide_menu.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_failed_load_page.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\umeng_socialize_failed_load_page.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_base_alert_dialog_button.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\umeng_socialize_base_alert_dialog_button.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\window_coursecenter.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\window_coursecenter.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\course_video_playback_page.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\course_video_playback_page.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\registration_page.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\registration_page.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\left_end.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\left_end.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\study_field_item2.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\study_field_item2.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\splash_page.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\splash_page.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\personinfo_page.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\personinfo_page.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\ppt_page.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\ppt_page.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_bak_platform_item_simple.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\umeng_bak_platform_item_simple.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\course_video_playback_page.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\course_video_playback_page.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_example_socialize_analyticsmod_example.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\umeng_example_socialize_analyticsmod_example.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\new_course_center_page.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\new_course_center_page.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\common_attachment_view.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\common_attachment_view.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\per_page.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\per_page.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\videoview.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\videoview.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\hot_reco.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\hot_reco.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\picker_entry.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\picker_entry.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\videofullscreen_page.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\videofullscreen_page.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_kaoshi.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\fragment_kaoshi.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\right_end.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\right_end.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\jiaoan_view.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\jiaoan_view.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\print_dialog.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\print_dialog.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\search_page.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\search_page.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\load_progress_login.xml",
+        "source": "D:\\op\\weixue\\NewsPageDemo\\build\\intermediates\\bundles\\default\\res\\layout\\load_progress_login.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\usercomment_page.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\usercomment_page.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_example_socialize_analyticsmod_example.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\umeng_example_socialize_analyticsmod_example.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\ppt_page.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\ppt_page.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\left_end.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\left_end.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\moen_view.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\moen_view.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_bind_select_dialog.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\umeng_socialize_bind_select_dialog.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\picker_entry.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\picker_entry.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\per_page.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\per_page.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\answer_item.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\answer_item.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_ucenter.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\umeng_socialize_ucenter.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\lesson_list_item.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\lesson_list_item.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_post_comment.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\umeng_socialize_post_comment.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_trytosee_enroll_page.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\dialog_trytosee_enroll_page.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\item_course_msg.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\item_course_msg.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\activity_swipe.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\activity_swipe.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_actionbar.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\umeng_socialize_actionbar.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\news_adapter.xml",
+        "source": "D:\\op\\weixue\\NewsPageDemo\\build\\intermediates\\bundles\\default\\res\\layout\\news_adapter.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\search_top_bar.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\search_top_bar.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\tempelet_goods_list.xml",
+        "source": "D:\\Android_Workspace\\XlistviewActivity\\build\\intermediates\\bundles\\default\\res\\layout\\tempelet_goods_list.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\campusnews_listview_item.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\campusnews_listview_item.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\statusdetail_page.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\statusdetail_page.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\item_course_msg.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\item_course_msg.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\exam_page.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\exam_page.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\activity_single_page.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\activity_single_page.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\item_coursecenter_page.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\item_coursecenter_page.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\splash_page.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\splash_page.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar_item.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\actionbar_item.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\campus_news_page.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\campus_news_page.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\more_page.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\more_page.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\recommend_page.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\recommend_page.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_comment_detail.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\umeng_socialize_comment_detail.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_example_socialize_actionbar_viewpager.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\umeng_example_socialize_actionbar_viewpager.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_item_style.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\spinner_item_style.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\item_welcome_page_second.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\item_welcome_page_second.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_pull_to_refresh_header.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\umeng_socialize_pull_to_refresh_header.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_full_curtain.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\umeng_socialize_full_curtain.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\item_welcome_page_three.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\item_welcome_page_three.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\kaoshi_ans.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\kaoshi_ans.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\activity_kaoshi.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\activity_kaoshi.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_at_overlay.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\umeng_socialize_at_overlay.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\ppt_view.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\ppt_view.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_full_alert_dialog_item.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\umeng_socialize_full_alert_dialog_item.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\user_information_top.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\user_information_top.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\load_progress_news.xml",
+        "source": "D:\\Android_Workspace\\NewsPageDemo\\build\\intermediates\\bundles\\default\\res\\layout\\load_progress_news.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\textentry.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\textentry.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\new_recommend.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\new_recommend.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_shareboard_item.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\umeng_socialize_shareboard_item.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\study_field_item1.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\study_field_item1.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\lv_morecourse_page.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\lv_morecourse_page.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_post_comment_platform.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\umeng_socialize_post_comment_platform.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\new_activity_my_class.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\new_activity_my_class.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\activity_test_result.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\activity_test_result.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\popup_setting_page.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\popup_setting_page.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_comment_detail.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\umeng_socialize_comment_detail.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\per_lesson_list_item.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\per_lesson_list_item.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\ppt_view.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\ppt_view.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\kaoshi_pop.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\kaoshi_pop.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\activity_carries_info.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\activity_carries_info.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\course_center_page.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\course_center_page.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\kaoshi_pop.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\kaoshi_pop.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\buttons.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\buttons.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\refresh_header.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\refresh_header.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\user_information_page.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\user_information_page.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_example_socialize_actionbar_detail.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\umeng_example_socialize_actionbar_detail.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\activity_singlepane_empty.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\activity_singlepane_empty.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\choice_reco_page.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\choice_reco_page.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_example_socialize_actionbar_hash.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\umeng_example_socialize_actionbar_hash.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh.xml",
+        "source": "D:\\Android_Workspace\\NewsPageDemo\\build\\intermediates\\bundles\\default\\res\\layout\\pull_to_refresh.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_example_socialize_home_activity.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\umeng_example_socialize_home_activity.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\jiaoan_view.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\jiaoan_view.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_post_share.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\umeng_socialize_post_share.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_coursescore_page.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\dialog_coursescore_page.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\news_page.xml",
+        "source": "D:\\Android_Workspace\\NewsPageDemo\\build\\intermediates\\bundles\\default\\res\\layout\\news_page.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\actionbar.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\news_adapter.xml",
+        "source": "D:\\Android_Workspace\\NewsPageDemo\\build\\intermediates\\bundles\\default\\res\\layout\\news_adapter.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\study_field_item3.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\study_field_item3.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_bak_at_list_item.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\umeng_bak_at_list_item.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_failed_load_page.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\umeng_socialize_failed_load_page.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_comment_more.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\umeng_socialize_comment_more.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\activity_test_result.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\activity_test_result.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_at_item.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\umeng_socialize_at_item.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_titile_bar_comment.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\umeng_socialize_titile_bar_comment.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\activity_check_answers.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\activity_check_answers.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\activity_kaoshi.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\activity_kaoshi.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_actionbar.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\umeng_socialize_actionbar.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\op\\weixue\\NewsPageDemo\\build\\intermediates\\bundles\\default\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\load_progress_login.xml",
+        "source": "D:\\Android_Workspace\\NewsPageDemo\\build\\intermediates\\bundles\\default\\res\\layout\\load_progress_login.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\slide_menu_content.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\slide_menu_content.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\choice_reco_page.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\choice_reco_page.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\qrcode_searchfriend_page.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\qrcode_searchfriend_page.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\item_ans_list.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\item_ans_list.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\videoview.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\videoview.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\activity_check_answers_list.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\activity_check_answers_list.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\new_activity_planning.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\new_activity_planning.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\searchfriend_page.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\searchfriend_page.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_bak_at_list_item.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\umeng_bak_at_list_item.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\lesson__page_list.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\lesson__page_list.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_composer_header.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\umeng_socialize_composer_header.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\login_page.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\login_page.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_header.xml",
+        "source": "D:\\Android_Workspace\\XlistviewActivity\\build\\intermediates\\bundles\\default\\res\\layout\\xlistview_header.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\new_activity_professional.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\new_activity_professional.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\news_top_img_page.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\news_top_img_page.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\common_attachment_view.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\common_attachment_view.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\refresh_footer.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\refresh_footer.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh.xml",
+        "source": "D:\\op\\weixue\\NewsPageDemo\\build\\intermediates\\bundles\\default\\res\\layout\\pull_to_refresh.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\dialog.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\dialog.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\item_file_search_page.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\item_file_search_page.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\new_activity_choose.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\new_activity_choose.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\vidao_view.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\vidao_view.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\person_info_top.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\person_info_top.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\more_page.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\more_page.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_titile_bar_comment.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\umeng_socialize_titile_bar_comment.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_at_item.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\umeng_socialize_at_item.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\type_adapter.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\type_adapter.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_iphone.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\dialog_iphone.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_comment_detail_nomap.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\umeng_socialize_comment_detail_nomap.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_bak_platform_selector_dialog.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\umeng_bak_platform_selector_dialog.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\load_progress.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\load_progress.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\item_lv_downloadmanager.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\item_lv_downloadmanager.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\bottom_bar.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\bottom_bar.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\item_file_search_page.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\item_file_search_page.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\list.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\list.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\activity_singlepane_empty.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\activity_singlepane_empty.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_pull_to_refresh_header.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\umeng_socialize_pull_to_refresh_header.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_full_alert_dialog_item.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\umeng_socialize_full_alert_dialog_item.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_comment_detail_nomap.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\umeng_socialize_comment_detail_nomap.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_post_comment.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\umeng_socialize_post_comment.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\new_activity_professional.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\new_activity_professional.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_example_socialize_actionbar_hash.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\umeng_example_socialize_actionbar_hash.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\lesson_list_item.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\lesson_list_item.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\new_activity_choose.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\new_activity_choose.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\kaoshi_ans.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\kaoshi_ans.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\lv_page.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\lv_page.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\item_lv_downloadmanager.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\item_lv_downloadmanager.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_header.xml",
+        "source": "D:\\op\\weixue\\XlistviewActivity\\build\\intermediates\\bundles\\default\\res\\layout\\xlistview_header.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\floadbg_page.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\floadbg_page.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\study_field_item1.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\study_field_item1.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\item_lv_selectsubject.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\item_lv_selectsubject.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\new_activity_market.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\new_activity_market.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\controler.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\controler.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\right_end.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\right_end.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\new_activity_training.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\new_activity_training.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\registration_page.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\registration_page.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\hot_reco.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\hot_reco.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\lv_downloadmanager_list_page.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\lv_downloadmanager_list_page.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_simple_spinner_item.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\umeng_socialize_simple_spinner_item.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\slide_menu.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\slide_menu.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\type_adapter.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\type_adapter.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\loading_and_refesh_page.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\loading_and_refesh_page.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\tempelet_goods_list.xml",
+        "source": "D:\\op\\weixue\\XlistviewActivity\\build\\intermediates\\bundles\\default\\res\\layout\\tempelet_goods_list.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\buttons.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\buttons.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\new_activity_certificate.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\new_activity_certificate.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_at_view.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\umeng_socialize_at_view.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_ucenter_platform_item.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\umeng_socialize_ucenter_platform_item.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\personinfo_page.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\personinfo_page.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\moen_view.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\moen_view.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_shareboard_item.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\umeng_socialize_shareboard_item.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_trytosee_enroll_page.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\dialog_trytosee_enroll_page.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\videofullscreen_page.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\videofullscreen_page.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\study_field_item2.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\study_field_item2.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\activity_check_answers.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\activity_check_answers.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_titile_bar.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\umeng_socialize_titile_bar.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_bak_at_list.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\umeng_bak_at_list.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\campus_news_page.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\campus_news_page.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\item_lv_selectsubject.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\item_lv_selectsubject.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\new_activity_training.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\new_activity_training.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\activity_carries_total.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\activity_carries_total.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\per_lesson_list.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\per_lesson_list.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_base_alert_dialog.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\umeng_socialize_base_alert_dialog.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_comment_item.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\umeng_socialize_comment_item.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\setting_page.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\setting_page.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_titile_bar.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\umeng_socialize_titile_bar.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\mainforvideo.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\mainforvideo.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\window.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\window.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\statusdetail_page.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\statusdetail_page.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\start_other_app_page.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\start_other_app_page.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_example_socialize_actionbar_hash_item.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\umeng_example_socialize_actionbar_hash_item.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\new_activity_market.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\new_activity_market.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\load_progress_news.xml",
+        "source": "D:\\op\\weixue\\NewsPageDemo\\build\\intermediates\\bundles\\default\\res\\layout\\load_progress_news.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\new_course_center_page.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\new_course_center_page.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\outline_entry.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\outline_entry.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\mainforvideo.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\mainforvideo.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\print_dialog.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\print_dialog.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_publishdetail_page.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\dialog_publishdetail_page.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\setting_page.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\setting_page.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\refresh_header.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\refresh_header.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_ucenter_platform_item.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\umeng_socialize_ucenter_platform_item.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\more_video_list_item.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\more_video_list_item.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_example_socialize_actionbar_viewpager_singel.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\umeng_example_socialize_actionbar_viewpager_singel.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\new_activity_certificate.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\new_activity_certificate.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_example_socialize_home.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\umeng_example_socialize_home.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_coursebrightspot_page.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\dialog_coursebrightspot_page.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\study_field.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\study_field.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_at_overlay.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\umeng_socialize_at_overlay.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\study_field.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\study_field.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\exam_page.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\exam_page.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_comment_item.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\umeng_socialize_comment_item.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\activity_check_answers_list.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\activity_check_answers_list.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_at_view.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\umeng_socialize_at_view.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_coursescore_page.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\dialog_coursescore_page.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\refresh_footer.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\refresh_footer.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\window.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\window.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\kaoshi_result.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\kaoshi_result.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_comment_content.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\umeng_socialize_comment_content.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\mediacontroller.xml",
+        "source": "D:\\op\\weixue\\InitActivity\\build\\intermediates\\bundles\\default\\res\\layout\\mediacontroller.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_kaoshi.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\fragment_kaoshi.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_example_socialize_actionbar_hash_item.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\umeng_example_socialize_actionbar_hash_item.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\per_lesson_list.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\per_lesson_list.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_publishdetail_page.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\dialog_publishdetail_page.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\load_progress.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\load_progress.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\qrcode_searchfriend_page.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\qrcode_searchfriend_page.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_simple_spinner_item.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\umeng_socialize_simple_spinner_item.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\elv_morecourse_page.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\elv_morecourse_page.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\carries_item.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\carries_item.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\kaoshi_result.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\kaoshi_result.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\list.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\list.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\floadbg_page.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\floadbg_page.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\elv_morecourse_page.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\elv_morecourse_page.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_comment_content.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\umeng_socialize_comment_content.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\wanzheng_course_video_playback_page.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\wanzheng_course_video_playback_page.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\loading_and_refesh_page.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\loading_and_refesh_page.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\slide_menu_content.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\slide_menu_content.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\create_myqrcode_page.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\create_myqrcode_page.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\popup_setting_page.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\popup_setting_page.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\lv_downloadmanager_list_page.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\lv_downloadmanager_list_page.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_bak_platform_selector_dialog.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\umeng_bak_platform_selector_dialog.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\mediacontroller.xml",
+        "source": "D:\\Android_Workspace\\InitActivity\\build\\intermediates\\bundles\\default\\res\\layout\\mediacontroller.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_example_socialize_customplatform_example.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\umeng_example_socialize_customplatform_example.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\actionbar.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_oauth_dialog.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\umeng_socialize_oauth_dialog.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_comment_view.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\umeng_socialize_comment_view.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\search_top_bar.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\search_top_bar.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\outline_entry.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\outline_entry.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_bind_select_dialog.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\umeng_socialize_bind_select_dialog.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\item_lv_searchfriend.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\item_lv_searchfriend.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\activity_carries_total.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\activity_carries_total.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_example_socialize_actionbar_viewpager.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\umeng_example_socialize_actionbar_viewpager.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\item_lv_readcomment.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\item_lv_readcomment.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\item_lv_searchfriend.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\item_lv_searchfriend.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\activity_carries_list.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\activity_carries_list.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\lv_morecourse_page.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\lv_morecourse_page.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\course_center_page.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\course_center_page.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar_item.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\actionbar_item.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\item_video_list_page.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\item_video_list_page.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\news_list_page.xml",
+        "source": "D:\\Android_Workspace\\NewsPageDemo\\build\\intermediates\\bundles\\default\\res\\layout\\news_list_page.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\item_welcome_page_second.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\item_welcome_page_second.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\lv_page.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\lv_page.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\recommend_page.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\recommend_page.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\new_activity_my_class.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\new_activity_my_class.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\pager_tab_title.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\pager_tab_title.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_footer.xml",
+        "source": "D:\\Android_Workspace\\XlistviewActivity\\build\\intermediates\\bundles\\default\\res\\layout\\xlistview_footer.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\open_class.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\open_class.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\item_welcome_page_three.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\item_welcome_page_three.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\new_activity_planning.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\new_activity_planning.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\create_myqrcode_page.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\create_myqrcode_page.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\textentry.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\textentry.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\open_class.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\open_class.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\start_other_app_page.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\start_other_app_page.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_post_comment_platform.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\umeng_socialize_post_comment_platform.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_comment_view.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\umeng_socialize_comment_view.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\user_information_page.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\user_information_page.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\Android_Workspace\\NewsPageDemo\\build\\intermediates\\bundles\\default\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\search_page.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\search_page.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_example_socialize_home_activity.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\umeng_example_socialize_home_activity.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_example_socialize_actionbar_viewpager_singel.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\layout\\umeng_example_socialize_actionbar_viewpager_singel.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\news_page.xml",
+        "source": "D:\\op\\weixue\\NewsPageDemo\\build\\intermediates\\bundles\\default\\res\\layout\\news_page.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_full_alert_dialog.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\umeng_socialize_full_alert_dialog.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_post_share.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\layout\\umeng_socialize_post_share.xml"
+    }
+]

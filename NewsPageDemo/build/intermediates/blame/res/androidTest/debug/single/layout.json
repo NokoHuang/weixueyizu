@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "D:\\Android_Workspace\\NewsPageDemo\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\news_page.xml",
+        "source": "D:\\Android_Workspace\\NewsPageDemo\\build\\intermediates\\bundles\\debug\\res\\layout\\news_page.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\NewsPageDemo\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\news_page.xml",
+        "source": "D:\\op\\weixue\\NewsPageDemo\\build\\intermediates\\bundles\\debug\\res\\layout\\news_page.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\NewsPageDemo\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\xlistview_footer.xml",
+        "source": "D:\\op\\weixue\\XlistviewActivity\\build\\intermediates\\bundles\\default\\res\\layout\\xlistview_footer.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\NewsPageDemo\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\load_progress_login.xml",
+        "source": "D:\\op\\weixue\\NewsPageDemo\\build\\intermediates\\bundles\\debug\\res\\layout\\load_progress_login.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\NewsPageDemo\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\news_adapter.xml",
+        "source": "D:\\op\\weixue\\NewsPageDemo\\build\\intermediates\\bundles\\debug\\res\\layout\\news_adapter.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\NewsPageDemo\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\news_list_page.xml",
+        "source": "D:\\Android_Workspace\\NewsPageDemo\\build\\intermediates\\bundles\\debug\\res\\layout\\news_list_page.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\NewsPageDemo\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\xlistview_footer.xml",
+        "source": "D:\\Android_Workspace\\XlistviewActivity\\build\\intermediates\\bundles\\default\\res\\layout\\xlistview_footer.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\NewsPageDemo\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh.xml",
+        "source": "D:\\op\\weixue\\NewsPageDemo\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\NewsPageDemo\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\xlistview_header.xml",
+        "source": "D:\\op\\weixue\\XlistviewActivity\\build\\intermediates\\bundles\\default\\res\\layout\\xlistview_header.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\NewsPageDemo\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\tempelet_goods_list.xml",
+        "source": "D:\\op\\weixue\\XlistviewActivity\\build\\intermediates\\bundles\\default\\res\\layout\\tempelet_goods_list.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\NewsPageDemo\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\news_list_page.xml",
+        "source": "D:\\op\\weixue\\NewsPageDemo\\build\\intermediates\\bundles\\debug\\res\\layout\\news_list_page.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\NewsPageDemo\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\load_progress_news.xml",
+        "source": "D:\\op\\weixue\\NewsPageDemo\\build\\intermediates\\bundles\\debug\\res\\layout\\load_progress_news.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\NewsPageDemo\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh.xml",
+        "source": "D:\\Android_Workspace\\NewsPageDemo\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\NewsPageDemo\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\load_progress_news.xml",
+        "source": "D:\\Android_Workspace\\NewsPageDemo\\build\\intermediates\\bundles\\debug\\res\\layout\\load_progress_news.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\NewsPageDemo\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\news_adapter.xml",
+        "source": "D:\\Android_Workspace\\NewsPageDemo\\build\\intermediates\\bundles\\debug\\res\\layout\\news_adapter.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\NewsPageDemo\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\xlistview_header.xml",
+        "source": "D:\\Android_Workspace\\XlistviewActivity\\build\\intermediates\\bundles\\default\\res\\layout\\xlistview_header.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\NewsPageDemo\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\tempelet_goods_list.xml",
+        "source": "D:\\Android_Workspace\\XlistviewActivity\\build\\intermediates\\bundles\\default\\res\\layout\\tempelet_goods_list.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\NewsPageDemo\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\main.xml",
+        "source": "D:\\Android_Workspace\\NewsPageDemo\\build\\intermediates\\bundles\\debug\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\NewsPageDemo\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\load_progress_login.xml",
+        "source": "D:\\Android_Workspace\\NewsPageDemo\\build\\intermediates\\bundles\\debug\\res\\layout\\load_progress_login.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\NewsPageDemo\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\main.xml",
+        "source": "D:\\op\\weixue\\NewsPageDemo\\build\\intermediates\\bundles\\debug\\res\\layout\\main.xml"
+    }
+]

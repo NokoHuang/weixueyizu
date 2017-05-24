@@ -1,0 +1,834 @@
+[
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_sina_on.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_sina_on.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_bind_select_bg.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_bind_select_bg.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_qzone_off.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_qzone_off.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\actionbar_back_indicator.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\actionbar_back_indicator.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_search_icon.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_search_icon.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_dir.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\ic_dir.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_share_music.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_share_music.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_wxcircle.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_wxcircle.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_renren_off.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_renren_off.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_search_icon.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_search_icon.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_share_music.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_share_music.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_renren_on.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_renren_on.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_title_home_default.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\ic_title_home_default.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_tx_off.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_tx_off.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_title_back_bt_normal.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_title_back_bt_normal.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_input_bar.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_input_bar.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_location_grey.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_location_grey.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_button_login_pressed.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_button_login_pressed.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_refersh.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_refersh.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_ucenter_hbg.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_ucenter_hbg.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_button_grey.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_button_grey.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_x_button.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_x_button.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_douban_on.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_douban_on.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_ucenter_hbg.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_ucenter_hbg.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_pv.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_pv.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_comment_selected.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_comment_selected.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\btn_bg_selected.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\btn_bg_selected.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_location_off.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_location_off.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\actionbar_compat_logo.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\actionbar_compat_logo.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_action_personal_normal.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_action_personal_normal.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_example_setting.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_example_setting.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_action_personal_selected.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_action_personal_selected.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_douban_off.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_douban_off.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_example_socialize_personal.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_example_socialize_personal.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_light_bar_bg_pad.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_light_bar_bg_pad.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_title_tab_right_normal.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_title_tab_right_normal.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_launcher.png",
+        "source": "D:\\op\\weixue\\XlistviewActivity\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_title_tab_left_pressed.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_title_tab_left_pressed.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_location_mark.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_location_mark.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_nav_bar_bg_pad.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_nav_bar_bg_pad.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_x_button.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_x_button.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_qzone_on.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_qzone_on.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_at_search_bg.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_at_search_bg.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_sms.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_sms.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_example_setting.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_example_setting.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_gmail.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_gmail.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_tx_off.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_tx_off.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_title_back_bt_selected.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_title_back_bt_selected.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_launcher.png",
+        "source": "D:\\Android_Workspace\\XlistviewActivity\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_refersh.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_refersh.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_default_avatar.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_default_avatar.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_renren_off.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_renren_off.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_button_login_normal.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_button_login_normal.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_action_comment_selected.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_action_comment_selected.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\actionbar_compat_background.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\actionbar_compat_background.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_sina_on.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_sina_on.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_twitter.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_twitter.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_fetch_location_disabled.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_fetch_location_disabled.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_button_red.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_button_red.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_button_red.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_button_red.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_qq_off.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_qq_off.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_wechat.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_wechat.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_action_share_normal.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_action_share_normal.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_title_share_default.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\ic_title_share_default.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\actionbar_compat_separator.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\actionbar_compat_separator.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_button_blue.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_button_blue.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_action_share_normal.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_action_share_normal.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_fetch_image.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_fetch_image.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_renren_on.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_renren_on.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_action_unlike.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_action_unlike.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_title_back_bt_normal.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_title_back_bt_normal.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_qq_off.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_qq_off.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_title_share_default.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\ic_title_share_default.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_action_item_bg.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_action_item_bg.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_google.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_google.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_divider_line.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_divider_line.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_qq_login.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_qq_login.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_qzone_off.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_qzone_off.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_pulltorefresh_arrow.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_pulltorefresh_arrow.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_doc.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\ic_doc.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_action_unlike.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_action_unlike.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_tx_on.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_tx_on.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_example_socialize_personal.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_example_socialize_personal.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_pulltorefresh_arrow.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_pulltorefresh_arrow.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_title_right_bt_selected.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_title_right_bt_selected.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_comment_normal.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_comment_normal.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_action_back_normal.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_action_back_normal.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_light_bar_bg_pad.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_light_bar_bg_pad.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_location_off.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_location_off.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_location_ic.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_location_ic.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_nav_bar_bg.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_nav_bar_bg.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_action_share_selected.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_action_share_selected.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\weixin_icon.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\weixin_icon.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_title_tab_right_normal.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_title_tab_right_normal.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_title_refresh_default.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\ic_title_refresh_default.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_bind_bg.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_bind_bg.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_title_tab_right_pressed.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_title_tab_right_pressed.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_title_back_bt_selected.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_title_back_bt_selected.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\loading2_1.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\loading2_1.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_sina_off.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_sina_off.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_input_bar.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_input_bar.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_at_normal.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_at_normal.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\loading2_1.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\loading2_1.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_twitter.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_twitter.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_checked.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_checked.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\btn_bg_pressed.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\btn_bg_pressed.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_action_like.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_action_like.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_nav_bar_bg_pad.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_nav_bar_bg_pad.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_action_like.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_action_like.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_location_on.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_location_on.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_share_pic.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_share_pic.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_fetch_location.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_fetch_location.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_oauth_check_on.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_oauth_check_on.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_divider_line.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_divider_line.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_light_bar_bg.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_light_bar_bg.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\actionbar_compat_logo.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\actionbar_compat_logo.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_title_home_default.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\ic_title_home_default.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_fetch_image_disabled.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_fetch_image_disabled.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_tx_on.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_tx_on.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_gmail.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_gmail.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_at_label_bg.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_at_label_bg.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_follow_off.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_follow_off.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_action_item_bg.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_action_item_bg.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_follow_off.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_follow_off.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_action_personal_selected.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_action_personal_selected.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_facebook.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_facebook.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_wechat.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_wechat.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_default_avatar.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_default_avatar.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_button_login_normal.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_button_login_normal.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_at_label_bg.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_at_label_bg.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_location_grey.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_location_grey.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_action_back_selected.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_action_back_selected.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_bind_bg.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_bind_bg.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_follow_on.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_follow_on.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_qq_on.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_qq_on.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\slide_menu_bg.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\slide_menu_bg.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_google.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_google.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_action_comment_normal.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_action_comment_normal.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_nav_bar_bg.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_nav_bar_bg.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\wxcircel.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\wxcircel.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_share_video.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_share_video.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_button_white.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_button_white.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_default_avatar.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_default_avatar.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_location_on.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_location_on.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_at_selected.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_at_selected.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_douban_on.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_douban_on.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_pv.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_pv.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_facebook.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_facebook.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_bind_select_bg.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_bind_select_bg.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_location_mark.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_location_mark.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_actionbar_bg.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_actionbar_bg.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_fetch_image.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_fetch_image.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_default_avatar.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_default_avatar.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\wxcircel.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\wxcircel.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_title_tab_left_normal.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_title_tab_left_normal.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_share_pic.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_share_pic.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_action_comment_selected.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_action_comment_selected.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_fetch_location_disabled.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_fetch_location_disabled.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_action_share_selected.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_action_share_selected.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_checked.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_checked.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_title_tab_left_normal.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_title_tab_left_normal.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_at_selected.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_at_selected.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\actionbar_compat_separator.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\actionbar_compat_separator.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_sina_off.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_sina_off.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_qq_login.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_qq_login.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_fetch_image_disabled.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_fetch_image_disabled.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_title_tab_left_pressed.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_title_tab_left_pressed.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_share_video.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_share_video.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_title_right_bt_normal.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_title_right_bt_normal.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_action_back_normal.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_action_back_normal.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\btn_bg_selected.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\btn_bg_selected.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_comment_bg.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_comment_bg.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_comment_bg.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_comment_bg.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_fetch_location.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_fetch_location.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_qzone_on.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_qzone_on.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_action_personal_normal.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_action_personal_normal.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_title_right_bt_normal.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_title_right_bt_normal.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\weixin_icon.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\weixin_icon.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\btn_bg_pressed.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\btn_bg_pressed.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_button_blue.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_button_blue.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_follow_on.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_follow_on.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\actionbar_compat_background.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\actionbar_compat_background.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_dir.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\ic_dir.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_action_back_selected.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_action_back_selected.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_wxcircle.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_wxcircle.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_comment_selected.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_comment_selected.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_actionbar_bg.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_actionbar_bg.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_button_login_pressed.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_button_login_pressed.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\actionbar_back_indicator.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\actionbar_back_indicator.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_at_normal.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_at_normal.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_location_ic.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_location_ic.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_button_grey.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_button_grey.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_douban_off.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_douban_off.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_title_right_bt_selected.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_title_right_bt_selected.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\slide_menu_bg.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\slide_menu_bg.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_button_white.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_button_white.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_light_bar_bg.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_light_bar_bg.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_at_search_bg.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_at_search_bg.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_title_tab_right_pressed.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_title_tab_right_pressed.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_oauth_check_off.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_oauth_check_off.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_qq_on.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_qq_on.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_comment_normal.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_comment_normal.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_title_refresh_default.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\ic_title_refresh_default.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_doc.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\ic_doc.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_sms.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_sms.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_oauth_check_on.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_oauth_check_on.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_action_comment_normal.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-ldpi\\umeng_socialize_action_comment_normal.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\umeng_socialize_oauth_check_off.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-ldpi\\umeng_socialize_oauth_check_off.png"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\raw\\example.ppt",
+        "source": "D:\\op\\weixue\\Weixue\\res\\raw\\example.ppt"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\raw\\example.ppt",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\raw\\example.ppt"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\raw\\libarm.so",
+        "source": "D:\\op\\weixue\\InitActivity\\build\\intermediates\\bundles\\default\\res\\raw\\libarm.so"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\raw\\fe.doc",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\raw\\fe.doc"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\raw\\beep.ogg",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\raw\\fe.doc",
+        "source": "D:\\op\\weixue\\Weixue\\res\\raw\\fe.doc"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\raw\\beep.ogg",
+        "source": "D:\\op\\weixue\\Weixue\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\raw\\libarm.so",
+        "source": "D:\\Android_Workspace\\InitActivity\\build\\intermediates\\bundles\\default\\res\\raw\\libarm.so"
+    }
+]

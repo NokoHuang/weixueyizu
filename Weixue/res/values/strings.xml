@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 个人天地 -->
+    <string name="app_name">微学一族</string>
+    <string name="menu_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="user_name">姓名:</string>
+    <string name="user_lever">等级:</string>
+    <string name="user_sign"></string>
+    <string name="user_lesson">我加入的课程</string>
+    <string name="lesson_title">课程名称:</string>
+    <string name="lesson_info">简介:</string>
+    <string name="lesson_published">发布时间:</string>
+    <string name="lesson_goodcount">学习数:</string>
+    <string name="personaltitle">个人天地</string>
+    <string name="learncents">学分</string>
+    <string name="learnmoney">学币</string>
+
+    <!-- tab菜单 -->
+    <string name="main_tab1">个人天地</string>
+    <string name="main_tab2">互动平台</string>
+    <string name="main_tab3">微学堂</string>
+    <string name="main_tab4">前沿资讯</string>
+    <string name="main_tab5">更多</string>
+
+    <!-- 考试 -->
+    <string name="kaoshi_tab1">交卷</string>
+    <string name="kaoshi_tab3">题目收藏</string>
+    <string name="kaoshi_result">查看成绩</string>
+    <string name="kaoshi_ans">查看答案</string>
+
+    <!-- 标题 -->
+    <string name="title_2">动态</string>
+    <string name="title_3">在线课程</string>
+    <string name="playerVideo">课程视频播放</string>
+    <string name="title_kaoshi">Linux考试</string>
+    <string name="ppt">查看PPT</string>
+
+    <!-- 泡泡窗体 -->
+    <string name="popu_1">所有动态</string>
+    <string name="popu_2">校园动态</string>
+    <string name="popu_3">好友动态</string>
+    <string name="popu_4">个人动态</string>
+    <string name="popu_5">在线</string>
+    <string name="popu_6">直播</string>
+    <string name="shareCourse">分享学习课程</string>
+    <string name="more">更多&#8230;</string>
+    <string name="publish_detailforschool">发表校园动态</string>
+    <string name="publish_detailforperson">发表个人动态</string>
+    <string name="publish_detail">发表动态</string>
+
+    <!-- 启动页 -->
+    <string name="wait">请稍后&#8230;&#8230;</string>
+    <string name="downloading">正在下载&#8230;(KB)</string>
+    <string name="splash_title">程序更新提示</string>
+    <string name="update">更新</string>
+    <string name="networkerror">连接网络出错</string>
+    <string name="cancel">取消</string>
+
+    <!-- 推荐视频 -->
+    <string name="views_count">学习数：</string>
+    <string name="hot_lever">热度：</string>
+    <string name="Look">试看</string>
+    <string name="choice_reco">精品课程</string>
+    <string name="hot_reco">推荐课程</string>
+    <string name="open_class">公开课</string>
+    <string name="viedo_reco">推荐视频 </string>
+    <string name="jingping">微课堂 </string>
+
+    <!-- 视频试播界面 -->
+    <string name="jianjie">简介:</string>
+    <string name="share">分享</string>
+    <string name="Collection">收藏</string>
+    <string name="videolength">时长:</string>
+    <string name="baodu">支付金币报读课程</string>
+    <string name="cancelCollect">取消收藏</string>
+
+    <!-- 视频 -->
+    <string name="novideo">没有视频资源!</string>
+    <string name="loadingvideo">正在缓冲视频&#8230;</string>
+
+    <!-- 更多(界面) -->
+    <string name="study_field">学习园地</string>
+    <string name="more_title">更多</string>
+    <string name="person_information">个人信息</string>
+    <string name="collect_course">收藏课程</string>
+    <string name="profession">职业:</string>
+    <string name="download_manager">下载管理</string>
+    <string name="system_setting">系统设置</string>
+    <string name="choose_language">语言选择</string>
+    <string name="cancellationlogin">退出当前账号</string>
+    <string name="cancellationsuccess">注销成功</string>
+    <string name="searchFriend">用户名搜索学友</string>
+    <string name="createQrCode">生成我的二维码</string>
+    <string name="qrCodeSearchFriend">二维码搜索学友</string>
+
+    <!-- 二维码 -->
+    <string name="create">生成</string>
+    <string name="qrCodeError">请扫描正确的二维码!</string>
+    <string name="qrCodeTitle">扫描二维码</string>
+
+    <!-- 试看对话框 -->
+    <string name="howmuching">报读该视频需学币</string>
+    <string name="howmuched">个!</string>
+    <string name="balanceing">您还剩余</string>
+    <string name="balanceed">个学币!</string>
+
+    <!-- 搜索视频界面（更多视频） -->
+    <string name="search_hint">请输入视频名称</string>
+    <string name="enrollment">报名人数:</string>
+    <string name="updated">发布时间:</string>
+    <string name="more_video">搜索课程</string>
+
+    <!-- 考试界面 -->
+    <string name="exam">答题</string>
+    <string name="exam_question">1、Android用到的编辑框是属于什么控件?</string>
+    <string name="exam_answer">EditText控件</string>
+
+    <!-- 签到 -->
+    <string name="checkin">签到</string>
+    <string name="saysomething">快点说点什么吧&#8230;</string>
+    <string name="checkintime">累积签到100次</string>
+    <string name="tv_showcredit">每次获取学分:</string>
+    <string name="addcredit">+5分</string>
+    <string name="sharplesson">分享学习课程</string>
+
+    <!-- 登录 -->
+    <string name="tv_login">用户登录</string>
+    <string name="tv_back">返回</string>
+    <string name="imgbtn_login">登录</string>
+    <string name="imgbtn_register">注册</string>
+    <string name="tip">功能暂未实现</string>
+    <string name="search_page_title">搜索</string>
+    <string name="inputname">请输入您的用户名&#8230;</string>
+    <string name="inputpwd">请输入您的密码&#8230;</string>
+    <string name="inputemail">请输入您的验证邮箱&#8230;</string>
+    <string name="userinfo">用户信息</string>
+
+    <!-- 对话框 -->
+    <string name="prompt">提示</string>
+
+    <!-- 动态 -->
+    <string name="createtime">发布时间:</string>
+    <string name="setbg">点击设置您的背景图片</string>
+    <string name="statusdetail">详情</string>
+
+    <!-- 下载 -->
+    <string name="pause">暂停</string>
+    <string name="restart">重新下载</string>
+    <string name="downloadingfile">正在下载的文件</string>
+    <string name="nofinishfile">未下载完成的文件</string>
+    <string name="isstopdownloadfile">是否要停止下载此文件?</string>
+    <string name="isstartdownloadfile">"是否要开始下载此文件?</string>
+
+    <!-- 查找好友 -->
+    <string name="inputFriendName">请输入好友名称:</string>
+
+    <!-- 评论 -->
+    <string name="readcomment">查看评论</string>
+    <string name="uploadcomment">发表评论</string>
+    <string name="addfriend">关注好友</string>
+
+    <!-- 评分 -->
+    <string name="sure">确定</string>
+
+    <!-- 其他 -->
+    <string name="no_moredata">没有更多数据了!</string>
+    <string name="no_course">没有加入任何课程!</string>
+    <string name="registerfail">注册失败!</string>
+    <string name="loginfail">登录失败!</string>
+    <string name="loginsuccess">登录成功，马上进入主页!</string>
+    <string name="nodata">没有数据</string>
+    <string name="error">出错!</string>
+    <string name="personinfo">用户信息</string>
+    <string name="comment">评论</string>
+    <string name="people">人</string>
+    <string name="commtenttime">评论时间:</string>
+    <string name="notopen">功能暂未开放</string>
+    <string name="collectcourse">收藏课程</string>
+    <string name="updateinfo">修改</string>
+    <string name="course">课程</string>
+    <string name="selectsubject">选择课程</string>
+    <string name="selectnum">选择数量</string>
+    <string name="choosesex">选择性别</string>
+    <string name="man">男</string>
+    <string name="girl">女</string>
+    <string name="noSDcard">请插入SD卡,再拍照!</string>
+    <string name="noResources">没有资源!</string>
+    <string name="isExit">是否退出?</string>
+    <string name="fileNotExist">文件不存在,是否现在下载?</string>
+    <string name="init_decoders">初始化播放器...</string>
+    <string name="video_layout_loading">正在缓冲...</string>
+
+    <!-- 用户信息 -->
+    <string name="signature">个性签名:</string>
+    <string name="normaluser">普通用户</string>
+    <string name="vipuser">VIP用户</string>
+    <string name="takephoto">拍照</string>
+    <string name="selectlocal">选择本地图片</string>
+    <string name="uploading">上传中&#8230;</string>
+
+    <!-- 系统设置 -->
+    <string name="deletecacheimg">清除缓存图片</string>
+    <string name="deleteall">清除系统数据</string>
+    <string name="deletecacheimgsuccess">删除缓存图片成功!</string>
+    <string name="deleteallsuccess">清除系统数据成功,请重新登录!</string>
+
+    <!-- 分享 -->
+    <string name="actionbar_activity_not_found">Failed to open intent&#8230;</string>
+    <string name="share_by_weixin">微信分享</string>
+    <string name="share_by_qq">QQ分享</string>
+
+    <!-- pdf -->
+    <string name="version">2.3</string>
+    <string name="no_media_warning">Storage media not present</string>
+    <string name="no_media_hint">Sharing the storage media with a PC can make it inaccessible</string>
+    <string name="search_backwards">Search backwards</string>
+    <string name="search_forwards">Search forwards</string>
+    <string name="search_document">Search document</string>
+    <string name="picker_title_App_Ver_Dir">%1$s %2$s: %3$s</string>
+    <string name="outline_title">Table of Contents</string>
+    <string name="enter_password">Enter password</string>
+    <string name="text_not_found">Text not found</string>
+    <string name="searching_">Searching&#8230;</string>
+    <string name="toggle_links">Highlight and enable links</string>
+    <string name="no_further_occurrences_found">No further occurrences found</string>
+    <string name="select">Select</string>
+    <string name="search">Search</string>
+    <string name="copy">Copy</string>
+    <string name="strike_out">Strike-out</string>
+    <string name="delete">Delete</string>
+    <string name="highlight">Highlight</string>
+    <string name="underline">Underline</string>
+    <string name="edit_annotations">Edit annotations</string>
+    <string name="ink">Ink</string>
+    <string name="save">Save</string>
+    <string name="print">Print</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="parent_directory">[Up one level]</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="entering_reflow_mode">Entering reflow mode</string>
+    <string name="leaving_reflow_mode">Leaving reflow mode</string>
+    <string name="print_failed">Print failed</string>
+    <string name="select_text">Select text</string>
+    <string name="copied_to_clipboard">Copied to clipboard</string>
+    <string name="no_text_selected">No text selected</string>
+    <string name="draw_annotation">Draw annotation</string>
+    <string name="nothing_to_save">Nothing to save</string>
+    <string name="document_has_changes_save_them_">Document has changes. Save them?</string>
+    <string name="cannot_open_document">Cannot open document</string>
+    <string name="cannot_open_document_Reason">Cannot open document: %1$s</string>
+    <string name="cannot_open_file_Path">Cannot open file: %1$s</string>
+    <string name="cannot_open_buffer">Cannot open buffer</string>
+    <string name="fill_out_text_field">Fill out text field</string>
+    <string name="okay">Okay</string>
+    <string name="choose_value">Choose value</string>
+    <string name="not_supported">Not supported</string>
+    <string name="copy_text_to_the_clipboard">Copy text to the clipboard</string>
+    <string name="accept">Accept</string>
+    <string name="copy_text">copy text</string>
+    <string name="format_currently_not_supported">Format currently not supported</string>
+    <string name="toggle_reflow_mode">Toggle reflow mode</string>
+
+</resources>

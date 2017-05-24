@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:background="@drawable/bwnbg"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/title_kaoshi"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/pager_kaoshi"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <LinearLayout
+        android:id="@+id/kaoshi_radio"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/bwnbg"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/kaoshi_button0"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:background="@drawable/btn_go"
+            android:drawableTop="@drawable/icon_finish1"
+            android:tag="kaoshi_button0"
+            android:text="@string/kaoshi_tab1"
+            android:paddingTop="6dp"
+            android:textColor="@color/white" />
+
+        <Button
+            android:id="@+id/kaoshi_button1"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:background="@drawable/btn_go"
+            android:drawableTop="@drawable/centre"
+            android:paddingTop="6dp"
+            android:tag="kaoshi_button1" />
+
+        <Button
+            android:id="@+id/kaoshi_button2"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:background="@drawable/btn_go"
+            android:drawableTop="@drawable/icon_favor1"
+            android:tag="kaoshi_button2"
+            android:text="@string/kaoshi_tab3"
+            android:paddingTop="6dp"
+            android:textColor="@color/white" />
+    </LinearLayout>
+
+
+</LinearLayout>

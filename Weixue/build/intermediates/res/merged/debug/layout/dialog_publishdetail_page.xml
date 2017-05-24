@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/dialog_bg"
+    android:orientation="vertical" >
+    
+ <LinearLayout 
+     android:layout_width="300dp"
+          android:layout_height="wrap_content"
+          android:orientation="vertical"
+         
+     >
+ <LinearLayout 
+      android:layout_width="match_parent"
+      android:layout_height="50dp"
+      android:gravity="center_vertical"     
+      android:orientation="horizontal"
+      >  
+       
+      <ImageButton 
+          android:id="@+id/btn_back"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_marginLeft="15dip"
+          android:src="@drawable/qxbtn"  
+         android:scaleType="fitCenter"
+          android:background="@color/transparent"
+          
+          />
+    
+      <TextView 
+          android:id="@+id/tv_title"
+          android:layout_width="wrap_content"           
+          android:layout_height="35dp"
+          android:layout_weight="1"
+         android:text="@string/publish_detail"
+         android:textColor="@color/black"
+         android:gravity="center"
+        android:textSize="20sp"
+          />
+      
+     <ImageButton 
+          android:id="@+id/btn_up"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_marginRight="15dip"
+          android:src="@drawable/fbbtn"  
+         android:scaleType="fitCenter"
+          android:background="@color/transparent"
+          
+          />
+      
+      
+  </LinearLayout>   
+  
+ 
+ <LinearLayout 
+     android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:orientation="vertical"
+       
+     >
+     <EditText 
+         android:id="@+id/et_content"
+         android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:background="@drawable/textbox"         
+          android:textColor="@color/gray"
+          android:gravity="top|left"
+          android:paddingLeft="5dp"
+          android:paddingTop="5dp"
+          android:layout_marginTop="10dp"
+          android:layout_marginLeft="10dp"
+          android:layout_marginRight="10dp"
+          android:hint="@string/saysomething"
+         />
+     
+     
+     
+     
+     
+ </LinearLayout>
+</LinearLayout>
+</LinearLayout>

@@ -1,0 +1,542 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:2:1-363:12
+	package
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:4:5-34
+	android:versionName
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:6:5-30
+		INJECTED from D:\op\weixue\Weixue\AndroidManifest.xml
+		INJECTED from D:\op\weixue\Weixue\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:3:5-51
+	android:versionCode
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:5:5-28
+		INJECTED from D:\op\weixue\Weixue\AndroidManifest.xml
+		INJECTED from D:\op\weixue\Weixue\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:8:5-79
+MERGED from [weixue:NewsPageDemo:unspecified] D:\op\weixue\NewsPageDemo\build\intermediates\bundles\default\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:9:5-76
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:9:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:10:22-72
+uses-permission#android.permission.INTERNET
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:12:5-67
+MERGED from [weixue:NewsPageDemo:unspecified] D:\op\weixue\NewsPageDemo\build\intermediates\bundles\default\AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:14:5-84
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:14:22-81
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:16:22-78
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:17:5-68
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:17:22-65
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:18:5-75
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:18:22-72
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:19:22-75
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:22:22-76
+uses-permission#android.permission.GET_TASKS
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:24:22-65
+uses-permission#android.permission.READ_LOGS
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:25:22-65
+uses-permission#android.permission.CHANGE_CONFIGURATION
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:27:5-28:23
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:27:22-76
+uses-permission#android.permission.VIBRATE
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:29:5-66
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:29:22-63
+uses-permission#android.permission.CAMERA
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:30:5-65
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:30:22-62
+uses-feature#android.hardware.camera
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:32:5-60
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:32:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:33:5-70
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:33:19-67
+uses-permission#android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:35:5-88
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:35:22-85
+uses-permission#android.permission.ACCESS_DOWNLOAD_MANAGER
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:36:5-82
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:36:22-79
+application
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:38:5-361:19
+MERGED from [weixue:InitActivity:unspecified] D:\op\weixue\InitActivity\build\intermediates\bundles\default\AndroidManifest.xml:7:5-16:19
+MERGED from [weixue:NewsPageDemo:unspecified] D:\op\weixue\NewsPageDemo\build\intermediates\bundles\default\AndroidManifest.xml:12:5-28:19
+MERGED from [weixue:XlistviewActivity:unspecified] D:\op\weixue\XlistviewActivity\build\intermediates\bundles\default\AndroidManifest.xml:7:5-19:19
+	android:label
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:42:9-41
+		REJECTED from [weixue:InitActivity:unspecified] D:\op\weixue\InitActivity\build\intermediates\bundles\default\AndroidManifest.xml:9:9-45
+		REJECTED from [weixue:NewsPageDemo:unspecified] D:\op\weixue\NewsPageDemo\build\intermediates\bundles\default\AndroidManifest.xml:15:9-41
+		REJECTED from [weixue:XlistviewActivity:unspecified] D:\op\weixue\XlistviewActivity\build\intermediates\bundles\default\AndroidManifest.xml:9:9-41
+	android:allowBackup
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:39:9-35
+	android:icon
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:40:9-45
+		REJECTED from [weixue:InitActivity:unspecified] D:\op\weixue\InitActivity\build\intermediates\bundles\default\AndroidManifest.xml:8:9-45
+		REJECTED from [weixue:NewsPageDemo:unspecified] D:\op\weixue\NewsPageDemo\build\intermediates\bundles\default\AndroidManifest.xml:14:9-45
+		REJECTED from [weixue:XlistviewActivity:unspecified] D:\op\weixue\XlistviewActivity\build\intermediates\bundles\default\AndroidManifest.xml:8:9-45
+	android:theme
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:43:9-56
+	tools:replace
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:41:9-51
+activity#com.weixue.weixueUI.SplashActivity
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:44:9-53:20
+	android:screenOrientation
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:47:13-49
+	android:label
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:46:13-45
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:45:13-62
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:48:13-52:29
+action#android.intent.action.MAIN
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:49:17-69
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:49:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:51:17-77
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:51:27-74
+activity#com.weixue.weixueUI.MainActivity
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:56:9-59:20
+	android:theme
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:58:13-49
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:57:13-41
+activity#com.example.newspagedemo.MainActivity
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:60:9-61:20
+MERGED from [weixue:NewsPageDemo:unspecified] D:\op\weixue\NewsPageDemo\build\intermediates\bundles\default\AndroidManifest.xml:17:9-25:20
+	android:label
+		ADDED from [weixue:NewsPageDemo:unspecified] D:\op\weixue\NewsPageDemo\build\intermediates\bundles\default\AndroidManifest.xml:19:13-45
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:60:19-71
+activity#com.example.newspagedemo.NewsListPageActivity
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:62:9-82
+MERGED from [weixue:NewsPageDemo:unspecified] D:\op\weixue\NewsPageDemo\build\intermediates\bundles\default\AndroidManifest.xml:26:9-82
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:62:19-79
+activity#com.example.newspagedemo.NewsPageActivity
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:63:9-78
+MERGED from [weixue:NewsPageDemo:unspecified] D:\op\weixue\NewsPageDemo\build\intermediates\bundles\default\AndroidManifest.xml:27:9-78
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:63:19-75
+activity#com.weixue.NewUI.ChooseActivity
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:64:9-65:20
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:64:19-65
+activity#com.weixue.NewUI.MarketActivity
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:66:9-67:20
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:66:19-65
+activity#com.weixue.NewUI.TrainingActivity
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:68:9-69:20
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:68:19-67
+activity#com.weixue.NewUI.PlanningActivity
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:70:9-71:20
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:70:19-67
+activity#com.weixue.NewUI.WebActivity
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:72:9-73:20
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:72:19-62
+activity#com.weixue.weixueUI.PersonalCenterActivity
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:76:9-77:20
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:76:19-57
+activity#com.weixue.weixueUI.CampusNewsActivity
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:79:9-80:20
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:79:19-53
+activity#com.weixue.weixueUI.CourseCenterActivity
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:82:9-83:20
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:82:19-55
+activity#com.weixue.NewUI.CourseCenterNewActivity
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:84:9-85:20
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:84:19-74
+activity#com.weixue.weixueUI.LessonActivity
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:87:9-88:20
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:87:19-49
+activity#com.weixue.weixueUI.StartOtherApp
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:90:9-96:20
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:90:19-67
+intent-filter#android.intent.action.VIEW+android.intent.category.DEFAULT
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:91:13-95:29
+action#android.intent.action.VIEW
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:92:17-69
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:92:25-66
+category#android.intent.category.DEFAULT
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:94:17-76
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:94:27-73
+activity#com.weixue.weixueUI.Wanzheng_Course_video_playbackActivity
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:99:9-105:20
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:99:19-73
+intent-filter#android.intent.category.DEFAULT+com.example.weixue.wanzhengvideo
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:100:13-104:29
+action#com.example.weixue.wanzhengvideo
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:103:17-75
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:103:25-72
+activity#com.weixue.weixueUI.Course_video_playbackActivity
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:108:9-109:20
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:108:19-64
+activity#com.weixue.NewUI.Course_video_playbackActivity
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:110:9-111:20
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:110:19-80
+activity#com.weixue.NewUI.VideoViewDemo
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:112:9-113:20
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:112:19-64
+activity#io.vov.vitamio.activity.InitActivity
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:114:9-119:63
+MERGED from [weixue:InitActivity:unspecified] D:\op\weixue\InitActivity\build\intermediates\bundles\default\AndroidManifest.xml:10:9-15:63
+	android:launchMode
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:117:13-43
+	android:windowSoftInputMode
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:119:13-60
+	android:configChanges
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:116:13-113
+	android:theme
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:118:13-60
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:115:13-64
+activity#com.weixue.NewUI.MyClassActivity
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:120:9-121:20
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:120:19-66
+activity#com.weixue.NewUI.CertificateActivity
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:124:9-125:20
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:124:19-70
+activity#com.weixue.weixueUI.ChoiceRecoActivity
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:128:9-56
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:128:19-53
+activity#com.weixue.weixueUI.HotRecoActivity
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:129:9-53
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:129:19-50
+activity#com.weixue.weixueUI.OpenClassActivity
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:130:9-55
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:130:19-52
+service#com.weixue.Service.DownLoadService
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:132:9-133:19
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:132:18-67
+activity#com.weixue.weixueUI.MoreActivity
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:137:9-138:20
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:137:19-47
+activity#com.weixue.weixueUI.SearchCourseActivity
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:141:9-143:67
+	android:windowSoftInputMode
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:143:13-64
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:142:13-68
+activity#com.weixue.weixueUI.ExamActivity
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:146:9-147:20
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:146:19-47
+activity#com.weixue.MyDialog.PublishDetailActivity
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:150:9-154:20
+	android:launchMode
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:152:13-44
+	android:theme
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:153:13-55
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:151:13-69
+activity#com.weixue.MyDialog.CourseScoreActivity
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:156:9-160:20
+	android:launchMode
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:158:13-44
+	android:theme
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:159:13-55
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:157:13-67
+activity#com.weixue.weixueUI.LoginActivity
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:163:9-167:20
+	android:windowSoftInputMode
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:166:13-54
+	android:theme
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:165:13-49
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:164:13-42
+activity#com.weixue.weixueUI.RegisterActivity
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:169:9-170:20
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:169:19-51
+activity#com.weixue.weixueUI.DownLoadManagerActivity
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:171:9-172:20
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:171:19-58
+activity#com.weixue.weixueUI.MoreCourseActivity
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:174:9-175:20
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:174:19-53
+activity#com.weixue.NewUI.StudyField
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:177:9-64
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:177:19-61
+activity#com.weixue.myUI.StudyFieldItem1
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:179:9-68
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:179:19-65
+activity#com.weixue.myUI.StudyFieldItem2
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:181:9-68
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:181:19-65
+activity#com.weixue.myUI.StudyFieldItem3
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:183:9-68
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:183:19-65
+activity#com.weixue.weixueUI.CollectCourseActivity
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:185:9-186:20
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:185:19-56
+activity#com.weixue.weixueUI.AddFriendActivity
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:189:9-190:20
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:189:19-52
+activity#com.weixue.weixueUI.SearchFriendActivity
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:192:9-195:20
+	android:windowSoftInputMode
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:194:13-54
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:193:13-49
+activity#com.weixue.weixueUI.UserCommentActivity
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:197:9-198:20
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:197:19-54
+activity#com.weixue.weixueUI.ReadCommentActivity
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:200:9-201:20
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:200:19-54
+activity#com.weixue.weixueUI.UserInformationActivity
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:203:9-204:20
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:203:19-58
+activity#com.weixue.weixueUI.SelectSubjectActivity
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:206:9-207:20
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:206:19-56
+activity#com.weixue.weixueUI.SettingActivity
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:209:9-210:20
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:209:19-50
+activity#com.weixue.weixueUI.VideoFullScreenActivity
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:213:9-219:20
+	android:screenOrientation
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:216:13-50
+	android:windowSoftInputMode
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:218:13-60
+	android:configChanges
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:215:13-74
+	android:theme
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:217:13-71
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:214:13-52
+activity#com.weixue.weixueUI.InitActivity
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:221:9-226:63
+	android:launchMode
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:224:13-43
+	android:windowSoftInputMode
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:226:13-60
+	android:configChanges
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:223:13-74
+	android:theme
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:225:13-60
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:222:13-60
+activity#com.weixue.weixueUI.StatusDetailActivity
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:229:9-230:20
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:229:19-55
+activity#com.weixue.MyDialog.CourseBrightspotActivity
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:232:9-235:20
+	android:theme
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:234:13-55
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:233:13-72
+activity#com.weixue.weixueUI.CreateQrCodeActivity
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:237:9-238:20
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:237:19-55
+activity#com.weixue.weixueUI.QrCodeSearchFriendActivity
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:240:9-241:20
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:240:19-61
+activity#com.weixue.weixueUI.MoviewView
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:244:9-48
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:244:19-45
+activity#com.weixue.weixueUI.FloatVideoActivity
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:245:9-56
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:245:19-53
+activity#com.weixue.weixueUI.StartActivity
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:246:9-254:20
+	android:launchMode
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:248:13-43
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:247:13-42
+intent-filter#android.intent.category.DEFAULT+com.weixue.ACTION_START_ACTIVITY
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:249:13-253:29
+action#com.weixue.ACTION_START_ACTIVITY
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:252:17-75
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:252:25-72
+activity#com.weixue.weixueUI.CarriesListActivity
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:257:9-57
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:257:19-54
+activity#com.weixue.weixueUI.CarriesInfoActivity
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:258:9-57
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:258:19-54
+activity#com.weixue.weixueUI.CarriesTotalActivity
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:259:9-58
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:259:19-55
+activity#com.weixue.weixueUI.TestResultActivity
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:260:9-56
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:260:19-53
+activity#com.weixue.weixueUI.CheckAnswersActivity
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:261:9-58
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:261:19-55
+activity#com.weixue.weixueUI.CheckAnswersListActivity
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:262:9-62
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:262:19-59
+activity#com.weixue.weixueUI.VideoPlayerActivity
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:263:9-266:20
+	android:launchMode
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:265:13-43
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:264:13-48
+service#com.weixue.Service.MediaPlaybackService
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:268:9-75
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:268:18-72
+meta-data#UMS_APPKEY
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:271:9-273:65
+	android:value
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:273:13-62
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:272:13-38
+activity#com.weixue.weixueUI.KaoShiActivity
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:275:9-276:20
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:275:19-49
+activity#com.weixue.weixueUI.KaoShiResult
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:277:9-278:20
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:277:19-47
+activity#com.weixue.weixueUI.KaoShiAns
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:279:9-280:20
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:279:19-44
+activity#com.umeng.socialize.view.ShareActivity
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:283:9-290:20
+	android:launchMode
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:286:13-44
+	android:noHistory
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:287:13-37
+	android:windowSoftInputMode
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:289:13-68
+	android:configChanges
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:285:13-57
+	android:theme
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:288:13-50
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:284:13-66
+activity#com.tencent.tauth.AuthActivity
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:293:9-67
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:293:19-64
+meta-data#UMENG_APPKEY
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:296:9-299:21
+	android:value
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:298:13-53
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:297:13-40
+activity#com.artifex.mupdfdemo.MuPDFActivity
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:302:9-360:20
+	android:label
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:304:13-45
+	android:theme
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:305:13-48
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:303:13-63
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:327:13-337:29
+category#android.intent.category.BROWSABLE
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:331:17-78
+	android:name
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:331:27-75
+data
+ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:333:17-47
+	android:scheme
+		ADDED from D:\op\weixue\Weixue\AndroidManifest.xml:333:23-44
+uses-sdk
+INJECTED from D:\op\weixue\Weixue\AndroidManifest.xml reason: use-sdk injection requested
+	android:targetSdkVersion
+		INJECTED from D:\op\weixue\Weixue\AndroidManifest.xml
+		INJECTED from D:\op\weixue\Weixue\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\op\weixue\Weixue\AndroidManifest.xml
+		INJECTED from D:\op\weixue\Weixue\AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from D:\op\weixue\Weixue\AndroidManifest.xml:2:1-363:12 reason: io.vov.vitamio requested WRITE_EXTERNAL_STORAGE
+activity#com.eyoung.xlistview.XlistviewActivity
+ADDED from [weixue:XlistviewActivity:unspecified] D:\op\weixue\XlistviewActivity\build\intermediates\bundles\default\AndroidManifest.xml:10:9-18:20
+	android:label
+		ADDED from [weixue:XlistviewActivity:unspecified] D:\op\weixue\XlistviewActivity\build\intermediates\bundles\default\AndroidManifest.xml:12:13-45
+	android:name
+		ADDED from [weixue:XlistviewActivity:unspecified] D:\op\weixue\XlistviewActivity\build\intermediates\bundles\default\AndroidManifest.xml:11:13-66

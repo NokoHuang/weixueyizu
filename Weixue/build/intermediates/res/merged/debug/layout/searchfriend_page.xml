@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+         <FrameLayout 
+      android:layout_width="match_parent"
+      android:layout_height="40dp"
+      android:gravity="center_vertical"
+      android:background="@drawable/top"
+      android:orientation="horizontal"
+      >  
+       <LinearLayout 
+           android:id="@+id/line_back"
+          android:layout_width="50dp"
+          android:layout_height="30dp"  
+       android:layout_marginLeft="10dp"       
+          android:background="@drawable/buttonback"
+          android:orientation="horizontal"
+            android:gravity="center"
+            android:layout_gravity="center_vertical"
+           >
+     
+      <TextView 
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_marginLeft="5dp"
+         android:text="@string/tv_back"
+         android:textColor="@color/white"
+         android:textSize="15sp"
+       
+          />
+    </LinearLayout>
+      <TextView 
+          android:id="@+id/tv_title"
+          android:layout_width="wrap_content"          
+          android:layout_height="35dp"        
+         android:text="@string/searchFriend"
+         android:textColor="@color/white"
+         android:layout_gravity="center"
+         android:layout_marginLeft="10dp"
+         android:gravity="center"
+        android:textSize="20sp"
+          />
+      
+     <LinearLayout 
+        android:layout_width="match_parent"
+         android:layout_height="match_parent"  
+         android:gravity="right|center_vertical"
+         >
+      <ImageView
+            android:id="@+id/iv_soundRecording"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+           android:layout_marginRight="10dp"
+            android:src="@drawable/soundrecording" />
+      </LinearLayout>
+  </FrameLayout>
+  <!-- 内容 -->
+  <LinearLayout 
+      android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+      >
+    
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        android:text="@string/inputFriendName" />
+
+    <EditText
+        android:id="@+id/ed_personName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:layout_margin="5dp"
+        android:inputType="textPersonName" >
+    </EditText>
+    
+    <ListView
+        android:id="@+id/lv_friendList"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" 
+        android:divider="@null"
+        android:layoutAnimation="@anim/list_anim_layout"
+        />
+ </LinearLayout>
+</LinearLayout>

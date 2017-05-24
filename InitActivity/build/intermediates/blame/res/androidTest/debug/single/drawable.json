@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\op\\weixue\\InitActivity\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mediacontroller_pause_button.xml",
+        "source": "D:\\op\\weixue\\InitActivity\\build\\intermediates\\bundles\\debug\\res\\drawable\\mediacontroller_pause_button.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\InitActivity\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mediacontroller_seekbar.xml",
+        "source": "D:\\Android_Workspace\\InitActivity\\build\\intermediates\\bundles\\debug\\res\\drawable\\mediacontroller_seekbar.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\InitActivity\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mediacontroller_pause_button.xml",
+        "source": "D:\\Android_Workspace\\InitActivity\\build\\intermediates\\bundles\\debug\\res\\drawable\\mediacontroller_pause_button.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\InitActivity\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mediacontroller_play_button.xml",
+        "source": "D:\\Android_Workspace\\InitActivity\\build\\intermediates\\bundles\\debug\\res\\drawable\\mediacontroller_play_button.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\InitActivity\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mediacontroller_seekbar_thumb.xml",
+        "source": "D:\\op\\weixue\\InitActivity\\build\\intermediates\\bundles\\debug\\res\\drawable\\mediacontroller_seekbar_thumb.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\InitActivity\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mediacontroller_play_button.xml",
+        "source": "D:\\op\\weixue\\InitActivity\\build\\intermediates\\bundles\\debug\\res\\drawable\\mediacontroller_play_button.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\InitActivity\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mediacontroller_seekbar.xml",
+        "source": "D:\\op\\weixue\\InitActivity\\build\\intermediates\\bundles\\debug\\res\\drawable\\mediacontroller_seekbar.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\InitActivity\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mediacontroller_seekbar_thumb.xml",
+        "source": "D:\\Android_Workspace\\InitActivity\\build\\intermediates\\bundles\\debug\\res\\drawable\\mediacontroller_seekbar_thumb.xml"
+    }
+]

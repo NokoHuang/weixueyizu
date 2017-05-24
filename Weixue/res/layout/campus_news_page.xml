@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+    
+    <LinearLayout 
+        android:layout_width="match_parent"
+    	android:layout_height="40dp"
+    	android:background="@drawable/bwnbg"
+    	android:orientation="horizontal"
+    	android:gravity="center"
+        >
+        
+         <LinearLayout 
+            android:layout_width="wrap_content"
+    		android:layout_height="wrap_content"
+    		android:id="@+id/popu_btn"
+    		android:gravity="center"
+            >
+        
+        <TextView 
+            android:id="@+id/tv_statusTitle"
+            android:layout_width="wrap_content"
+    		android:layout_height="wrap_content"
+    		android:text="@string/popu_1"
+    		android:textColor="@color/white"
+    		android:textSize="20sp"
+    		android:textStyle="bold"
+            />
+        
+        
+        <ImageView 
+            android:layout_width="wrap_content"
+    		android:layout_height="wrap_content"
+    		android:src="@drawable/down"
+            />
+        
+        </LinearLayout>
+        
+    </LinearLayout>
+    <LinearLayout 
+        android:id="@+id/line_big"
+        android:layout_width="match_parent"
+    		android:layout_height="match_parent"
+    		android:orientation="vertical">
+         
+    <FrameLayout 
+         android:layout_width="match_parent"
+    		android:layout_height="match_parent">
+        
+         <LinearLayout 
+            android:layout_width="match_parent"
+    		android:layout_height="wrap_content"
+    		android:orientation="vertical">
+    		
+        <include  layout="@layout/news_top_img_page"/>
+        <ListView 
+            android:layout_width="match_parent"
+    		android:layout_height="wrap_content"
+    		android:headerDividersEnabled="true"
+    		android:divider="@null"
+    		android:id="@+id/newsMsg"
+    		android:layoutAnimation="@anim/list_anim_layout"/>
+        
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/line_loading"
+            android:visibility="gone"
+            android:layout_width="match_parent"          
+            android:layout_height="match_parent" >
+
+            <include layout="@layout/loading_and_refesh_page" />
+        </LinearLayout>
+       </FrameLayout>
+    </LinearLayout>   
+    
+</LinearLayout>

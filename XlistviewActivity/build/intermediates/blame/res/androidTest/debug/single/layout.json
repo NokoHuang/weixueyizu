@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\Android_Workspace\\XlistviewActivity\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\tempelet_goods_list.xml",
+        "source": "D:\\Android_Workspace\\XlistviewActivity\\build\\intermediates\\bundles\\debug\\res\\layout\\tempelet_goods_list.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\XlistviewActivity\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\tempelet_goods_list.xml",
+        "source": "D:\\op\\weixue\\XlistviewActivity\\build\\intermediates\\bundles\\debug\\res\\layout\\tempelet_goods_list.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\XlistviewActivity\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\xlistview_footer.xml",
+        "source": "D:\\op\\weixue\\XlistviewActivity\\build\\intermediates\\bundles\\debug\\res\\layout\\xlistview_footer.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\XlistviewActivity\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\main.xml",
+        "source": "D:\\Android_Workspace\\XlistviewActivity\\build\\intermediates\\bundles\\debug\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\XlistviewActivity\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\main.xml",
+        "source": "D:\\op\\weixue\\XlistviewActivity\\build\\intermediates\\bundles\\debug\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\XlistviewActivity\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\xlistview_header.xml",
+        "source": "D:\\op\\weixue\\XlistviewActivity\\build\\intermediates\\bundles\\debug\\res\\layout\\xlistview_header.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\XlistviewActivity\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\xlistview_footer.xml",
+        "source": "D:\\Android_Workspace\\XlistviewActivity\\build\\intermediates\\bundles\\debug\\res\\layout\\xlistview_footer.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\XlistviewActivity\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\xlistview_header.xml",
+        "source": "D:\\Android_Workspace\\XlistviewActivity\\build\\intermediates\\bundles\\debug\\res\\layout\\xlistview_header.xml"
+    }
+]

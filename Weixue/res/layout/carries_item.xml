@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/item_ontouch"
+    android:paddingLeft="15dp"
+    android:paddingRight="15dp"
+    android:paddingTop="20dp" >
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:singleLine="true"
+        android:textColor="@color/list_item_textcolor"
+        android:textSize="20dp" />
+
+    <TextView
+        android:id="@+id/time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/title"
+        android:singleLine="true"
+        android:textColor="@color/list_item_textcolor"
+        android:textSize="13dp" />
+
+    <TextView
+        android:id="@+id/maxscore"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@id/title"
+        android:singleLine="true"
+        android:textColor="@color/list_item_textcolor"
+        android:textSize="13dp" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@id/maxscore"
+        android:layout_marginTop="10dp"
+        android:background="#eeeeee" />
+
+</RelativeLayout>

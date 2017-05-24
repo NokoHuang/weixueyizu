@@ -1,0 +1,53 @@
+# To enable ProGuard in your project, edit project.properties
+# to define the proguard.config property as described in that file.
+#
+# Add project specific ProGuard rules here.
+# By default, the flags in this file are appended to flags specified
+# in ${sdk.dir}/tools/proguard/proguard-android.txt
+# You can edit the include path and order by changing the ProGuard
+# include property in project.properties.
+#
+# For more details, see
+#   http://developer.android.com/guide/developing/tools/proguard.html
+
+# Add any project specific keep options here:
+
+# If your project uses WebView with JS, uncomment the following
+# and specify the fully qualified class name to the JavaScript interface
+# class:
+-keepclassmembers class com.zhanyun.tool.MyJavascriptInterface {
+   public *;
+}
+
+-dontwarn javax.activation.**
+-keep class javax.activation.** { *;}
+
+-dontwarn org.apache.harmony.awt.datatransfer.**
+-keep class org.apache.harmony.awt.datatransfer.** { *;}
+
+-dontwarn com.sun.mail.handlers.**
+-keep class com.sun.mail.handlers.** { *;}
+
+-dontwarn com.sun.mail.imap.protocol.**
+-keep class com.sun.mail.imap.protocol.** { *;}
+
+-dontwarn com.sun.mail.auth.**
+-keep class com.sun.mail.auth.** { *;}
+
+-dontwarn com.sun.mail.iap.**
+-keep class com.sun.mailp.iap.** { *;}
+
+-dontwarn com.sun.mail.pop3.**
+-keep class com.sun.mail.pop3.** { *;}
+
+-dontwarn com.sun.mail.smtp.**
+-keep class com.sun.mail.smtp.** { *;}
+
+-dontwarn org.apache.harmony.awt.**
+-keep class org.apache.harmony.awt.** { *;}
+
+-dontwarn com.zhanyun.email.**
+-keep class com.zhanyun.email.** { *;}
+
+-dontwarn com.artifex.mupdfdemo.**
+-keep class com.artifex.mupdfdemo.** { *;}

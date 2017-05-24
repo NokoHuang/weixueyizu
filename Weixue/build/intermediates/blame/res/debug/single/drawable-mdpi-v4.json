@@ -1,0 +1,354 @@
+[
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\pause_down.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-mdpi\\pause_down.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\displaymode_normal.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-mdpi\\displaymode_normal.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\soundcontrol_normal.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-mdpi\\soundcontrol_normal.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_doc.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-mdpi\\ic_doc.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\seek_thumb.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-mdpi\\seek_thumb.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\volumn_bg.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-mdpi\\volumn_bg.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\light_bg.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-mdpi\\light_bg.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\menu_refresh.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-mdpi\\menu_refresh.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\seek_thumb.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-mdpi\\seek_thumb.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\displaymode_fullscreen_normal.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-mdpi\\displaymode_fullscreen_normal.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\loding.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-mdpi\\loding.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\soundmute_down.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-mdpi\\soundmute_down.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\stepbackward_normal.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-mdpi\\stepbackward_normal.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\loading2_1.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-mdpi\\loading2_1.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\play.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-mdpi\\play.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\play_normal.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-mdpi\\play_normal.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\displaymode_fullscreen.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-mdpi\\displaymode_fullscreen.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\change.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-mdpi\\change.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\soundcontrol.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-mdpi\\soundcontrol.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\displaymode_fullscreen_down.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-mdpi\\displaymode_fullscreen_down.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\soundmute.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-mdpi\\soundmute.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\stepforward.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-mdpi\\stepforward.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\seek_thumb_down.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-mdpi\\seek_thumb_down.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\soundcontrol.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-mdpi\\soundcontrol.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_dir.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-mdpi\\ic_dir.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\displaymode_normal.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-mdpi\\displaymode_normal.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\soundmute_normal.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-mdpi\\soundmute_normal.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\soundmute_normal.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-mdpi\\soundmute_normal.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\menu_refresh.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-mdpi\\menu_refresh.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\fill.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-mdpi\\fill.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\stepforward_down.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-mdpi\\stepforward_down.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_arrow_up.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-mdpi\\ic_arrow_up.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\pause_normal.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-mdpi\\pause_normal.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\displaymode_down.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-mdpi\\displaymode_down.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\stepforward_down.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-mdpi\\stepforward_down.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\displaymode_down.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-mdpi\\displaymode_down.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\volumn_0_bg.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-mdpi\\volumn_0_bg.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\pause_down.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-mdpi\\pause_down.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\pause.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-mdpi\\pause.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\displaymode_normal_state.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-mdpi\\displaymode_normal_state.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\sound_line.bmp",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-mdpi\\sound_line.bmp"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\soundmute_down.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-mdpi\\soundmute_down.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\stepforward_normal.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-mdpi\\stepforward_normal.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\soundmute.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-mdpi\\soundmute.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\displaymode_fullscreen_normal.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-mdpi\\displaymode_fullscreen_normal.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_doc.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-mdpi\\ic_doc.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\soundcontrol_normal.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-mdpi\\soundcontrol_normal.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\stepbackward.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-mdpi\\stepbackward.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\loding.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-mdpi\\loding.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\displaymode_fullscreen.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-mdpi\\displaymode_fullscreen.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\stepbackward_normal.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-mdpi\\stepbackward_normal.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\stepbackward_down.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-mdpi\\stepbackward_down.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\close_float.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-mdpi\\close_float.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\play.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-mdpi\\play.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\sound_line.bmp",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-mdpi\\sound_line.bmp"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\volumn_0_bg.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-mdpi\\volumn_0_bg.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_arrow_up.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-mdpi\\ic_arrow_up.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\soundcontrol_down.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-mdpi\\soundcontrol_down.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\sound_line1.BMP",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-mdpi\\sound_line1.BMP"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\seek_thumb_normal.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-mdpi\\seek_thumb_normal.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\stepbackward.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-mdpi\\stepbackward.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\del.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-mdpi\\del.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\sound_line1.BMP",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-mdpi\\sound_line1.BMP"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\pause_normal.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-mdpi\\pause_normal.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\change.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-mdpi\\change.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\soundcontrol_down.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-mdpi\\soundcontrol_down.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\stepforward_normal.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-mdpi\\stepforward_normal.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_dir.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-mdpi\\ic_dir.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\loading2_1.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-mdpi\\loading2_1.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\displaymode_normal_state.xml",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-mdpi\\displaymode_normal_state.xml"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\volumn_bg.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-mdpi\\volumn_bg.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\stepbackward_down.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-mdpi\\stepbackward_down.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\seek_thumb_down.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-mdpi\\seek_thumb_down.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\fill.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-mdpi\\fill.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\light_bg.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-mdpi\\light_bg.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\play_down.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-mdpi\\play_down.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\play_down.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-mdpi\\play_down.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\del.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-mdpi\\del.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\pause.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-mdpi\\pause.xml"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\seek_thumb_normal.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-mdpi\\seek_thumb_normal.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\play_normal.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-mdpi\\play_normal.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\close_float.png",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-mdpi\\close_float.png"
+    },
+    {
+        "merged": "D:\\Android_Workspace\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\displaymode_fullscreen_down.png",
+        "source": "D:\\Android_Workspace\\Weixue\\res\\drawable-mdpi\\displaymode_fullscreen_down.png"
+    },
+    {
+        "merged": "D:\\op\\weixue\\Weixue\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\stepforward.xml",
+        "source": "D:\\op\\weixue\\Weixue\\res\\drawable-mdpi\\stepforward.xml"
+    }
+]

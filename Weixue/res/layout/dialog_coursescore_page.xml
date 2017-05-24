@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+ 
+    android:orientation="vertical" >
+    <LinearLayout 
+    android:layout_width="300dp"
+    android:layout_height="150dp"
+    android:orientation="vertical"
+   
+        >
+    <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:gravity="center"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:text="评分："
+                    android:textColor="@color/black" />
+
+                <RatingBar
+                    android:id="@+id/app_ratingbar"
+                    style="?android:attr/ratingBarStyleIndicator"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:numStars="5" 
+                    android:isIndicator="false"                
+                    android:rating="2.50" />
+            </LinearLayout>
+  
+    <!-- 按钮 -->
+     <LinearLayout 
+        android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:layout_marginLeft="20dp"
+    android:layout_marginRight="20dp"
+        >
+        
+        
+        
+        <Button           
+            android:id="@+id/btn_sure"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+             android:layout_marginRight="20dp"
+            android:background="@drawable/btn_collect"   
+            android:scaleType="fitXY"
+             android:layout_gravity="left"           
+            android:layout_weight="1"
+            android:text="@string/sure"
+            android:textColor="@color/white"
+            />
+        <Button           
+            android:id="@+id/btn_cancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="20dp"
+            android:background="@drawable/btn_collect"  
+            android:layout_gravity="right" 
+            android:scaleType="fitXY"
+            android:layout_weight="1"
+           android:text="@string/cancel"
+           android:textColor="@color/white"
+            />
+       
+    </LinearLayout>
+
+    </LinearLayout>
+</LinearLayout>

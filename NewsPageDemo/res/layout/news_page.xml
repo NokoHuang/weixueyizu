@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#ffffff">
+    
+	<LinearLayout 
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="horizontal"
+	    android:background="#e8ebee">
+	    
+	    <ImageView 
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:background="@drawable/goback"
+	        android:onClick="GoBack"/>
+
+	    <TextView
+	        android:layout_gravity="center_horizontal"
+	        android:id="@+id/display_news_title"
+	        android:layout_width="fill_parent"
+	        android:layout_height="fill_parent"
+	        android:layout_weight="1"
+	        android:gravity="center"
+	        android:text=""
+	        android:textSize="15dip" />
+	    
+	    <ImageView
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:background="@drawable/news_menu"
+	        android:visibility="gone"
+	        android:onClick="NewsMenu"/>
+	</LinearLayout>
+	
+	<!-- 先设置为隐藏，等待新闻内容加载完成后再显示出来 -->
+	<!-- <ScrollView 
+	    android:id="@+id/news_content_ScrollView_layout"
+	    android:layout_width="fill_parent"
+	    android:layout_height="fill_parent"
+	    android:layout_weight="1"
+	    android:visibility="gone"> 
+	    
+	    <LinearLayout
+	        android:layout_width="fill_parent"
+	        android:layout_height="fill_parent"
+	        android:orientation="vertical">
+	    
+	    		<LinearLayout
+			        android:layout_width="fill_parent"
+			        android:layout_height="wrap_content"
+			        android:orientation="horizontal"
+			        android:gravity="center">
+			        新闻来源
+	    		    <TextView 
+			            android:id="@+id/display_news_source"
+			            android:layout_width="wrap_content"
+			            android:layout_height="wrap_content"
+			            android:text=""
+			            android:textColor="#BCBCBC"/>
+			        新闻日期
+			        <TextView
+			            android:layout_marginLeft="10dip" 
+			            android:id="@+id/display_news_date_time"
+			            android:layout_width="wrap_content"
+			            android:layout_height="wrap_content"
+			            android:text=""
+			            android:textColor="#BCBCBC"/>
+	        	</LinearLayout>
+	        	
+	    		
+	        	JAVA代码控制图片显示布局
+	        	<LinearLayout 
+	        	    android:id="@+id/imageview_layout"
+	        	    android:layout_width="fill_parent"
+	        	    android:layout_height="wrap_content"
+	        	    android:orientation="vertical">
+	        	</LinearLayout>
+	        	
+	        	新闻内容
+		        <TextView 
+		            android:layout_marginTop="10dip"
+			        android:id="@+id/display_news_content"
+			        android:layout_width="fill_parent"
+			        android:layout_height="fill_parent"
+			        android:text=" "
+			        android:textSize="20dip"/>
+	    </LinearLayout>
+	</ScrollView> -->
+	
+	<WebView 
+	    android:id="@+id/mWvContent"
+	    android:layout_width="fill_parent"
+	    android:layout_height="fill_parent"
+	    android:visibility="gone"/>
+	
+	<LinearLayout
+	    android:id="@+id/news_content_loading_layout"
+	    android:layout_width="fill_parent"
+	    android:layout_height="fill_parent"
+	    android:layout_weight="1"
+	    android:orientation="vertical">
+	    
+	    <include 
+	        android:layout_width="fill_parent"
+	        android:layout_height="fill_parent"
+	        layout="@layout/load_progress_news"/>
+	    
+	</LinearLayout>
+
+</LinearLayout>

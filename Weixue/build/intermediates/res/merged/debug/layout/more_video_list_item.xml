@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="5dp"
+    android:background="@color/white" >
+    
+    <ImageView
+        android:id="@+id/lesson_img" 
+	    android:layout_width="80dp"
+	    android:layout_height="80dp" 
+	    android:layout_gravity="center_vertical"       
+        android:src="@drawable/search_img"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="vertical" 
+	    android:layout_marginLeft="5dp"   
+        >
+	    <TextView
+	        android:id="@+id/lesson_title"
+	        android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"  
+		    android:text="@string/lesson_title"
+		    android:textColor="@color/black"
+		    android:textStyle="bold"
+		    android:textSize="17sp"/>
+	    
+	    <TextView
+	        android:id="@+id/lesson_content"
+	        android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"  
+		    android:text="@string/hello_world"
+		    android:singleLine="false"
+		    android:lines="3"
+		    android:textColor="@color/black"
+		    android:textSize="15sp"/>
+	    
+	    <LinearLayout
+	        android:layout_width="match_parent"
+	   		android:layout_height="wrap_content"
+	    	android:orientation="horizontal"
+	    	android:layout_marginTop="5dp" >
+	        <TextView
+		        android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"  
+			    android:text="@string/enrollment"
+			    android:textColor="@color/black"
+			    android:textSize="12sp"/>
+	        <TextView
+		        android:id="@+id/lesson_enrollment"
+		        android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"  
+			    android:text="100"
+			    android:textColor="@color/black"
+			    android:textSize="10sp"
+			    />
+	        <TextView
+		       
+		        android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"  
+			    android:text="@string/people"
+			    android:textColor="@color/black"
+			    android:textSize="10sp"
+			    />
+	        <LinearLayout
+		        android:layout_width="match_parent"
+		   		android:layout_height="wrap_content"
+		    	android:orientation="horizontal"
+		    	android:gravity="right">
+			        <TextView
+				        android:layout_width="wrap_content"
+					    android:layout_height="wrap_content"  
+					    android:text="@string/updated"
+					    android:textColor="@color/black"
+					    android:textSize="12sp"
+					    />
+			        <TextView
+				        android:id="@+id/lesson_updated"
+				        android:layout_width="wrap_content"
+					    android:layout_height="wrap_content"  
+					    android:text="2013年09月01日"
+					    android:textColor="@color/black"
+					    android:textSize="10sp"
+					    />
+	        </LinearLayout>
+	    </LinearLayout>
+	</LinearLayout>
+</LinearLayout>

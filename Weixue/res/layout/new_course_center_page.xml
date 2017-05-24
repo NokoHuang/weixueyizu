@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="150dp" >
+
+                <FrameLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" >
+
+                    <LinearLayout
+                        android:id="@+id/linearLayout01"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical" >
+
+                        <android.support.v4.view.ViewPager
+                            android:id="@+id/guidePages"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content" >
+                        </android.support.v4.view.ViewPager>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/linearLayout01"
+                        android:layout_width="match_parent"
+                        android:layout_height="fill_parent"
+                        android:orientation="vertical" >
+
+                        <RelativeLayout
+                            android:layout_width="fill_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical" >
+
+                            <LinearLayout
+                                android:id="@+id/viewGroup"
+                                android:layout_width="fill_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_alignParentBottom="true"
+                                android:layout_marginBottom="5dp"
+                                android:layout_marginRight="10dp"
+                                android:gravity="right"
+                                android:orientation="horizontal"
+                                android:paddingRight="3dp" >
+                            </LinearLayout>
+                        </RelativeLayout>
+                    </LinearLayout>
+                </FrameLayout>
+            </LinearLayout>
+
+            <FrameLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent" >
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent" >
+
+                    <com.weixue.widget.CornerListView
+                        android:id="@+id/course_list"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:visibility="gone" >
+                    </com.weixue.widget.CornerListView>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/line_loading"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent" >
+
+                    <include layout="@layout/loading_and_refesh_page" />
+                </LinearLayout>
+            </FrameLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
